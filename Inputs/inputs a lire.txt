@@ -1,0 +1,281 @@
+information à traiter   : identifie chaque solution ou société, détermine si une fiche existe déjà, et si ça n'est pas le cas, lance un agent scout pour trouver les informations en veille, puis lance un agent pour créer chaque fiche
+
+Mets à jour ce fichier en supprimant les items quand ils sont traités
+
+=== TRAITÉS LE 2026-02-06 (Première vague) ===
+✓ Nirvana Insurance - fiche existante
+✓ Neptune Insurance - fiche créée
+✓ Inclined Technologies - fiche créée
+✓ Lemonade - fiche créée
+✓ Pie Insurance - fiche créée
+✓ Next Insurance - fiche créée
+✓ Coalition - fiche existante
+✓ Ladder - fiche créée
+✓ The Zebra - fiche créée
+✓ iLife - fiche créée
+✓ Metromile - fiche créée
+✓ Breeze - fiche créée
+
+=== TRAITÉS LE 2026-02-06 (Deuxième vague) ===
+✓ Indigo - fiche créée (Indigo_-_Indigo.md)
+✓ Cytora - fiche créée (Cytora_-_Cytora.md)
+✓ Federat.AI - fiche existante (Federato_-_RiskOps.md)
+✓ DreamFI - fiche créée (DreamFi_-_DreamFi.md)
+✓ Sensedia - fiche créée (Sensedia_-_Sensedia.md)
+✓ InsurZine - fiche créée (InsurZine_-_InsurZine.md)
+✓ Seagull Insurance - fiche créée (Seagull_Insurance_-_Concept.md)
+
+=== TRAITÉS LE 2026-02-06 (Troisième vague) ===
+✓ Wisedocs - fiche créée (Wisedocs_-_Wisedocs.md)
+✓ Polimorph PRO - fiche créée avec infos limitées (Polimorph_PRO_-_Polimorph.md)
+✓ allo SOLUTIONS - fiche créée avec infos limitées (allo_SOLUTIONS_-_allo.md)
+✓ Routable - fiche créée (Routable_-_Routable.md)
+✓ Mimecan Health - fiche créée avec infos limitées (Mimecan_Health_-_Mimecan.md)
+✓ Perceptiviti - fiche créée (Perceptiviti_-_Sherlock_AI.md)
+✓ InterMx - fiche créée comme INTX (InterMx_-_INTX.md)
+✓ INSILLION - fiche créée (INSILLION_-_INSILLION.md)
+✓ Konta - fiche créée avec infos limitées (Konta_-_Konta.md)
+✓ Vitesse - fiche créée (Vitesse_-_Vitesse.md)
+
+=== TRAITÉS LE 2026-02-06 (Quatrième vague) ===
+✓ ViClarity - fiche créée (ViClarity_-_ViClarity.md)
+✓ momento - fiche créée avec infos limitées (momento_-_momento.md)
+✓ Neat - fiche existante (Neat_-_Neat.md)
+✓ Meddi Mercado de Seguros - fiche créée (Meddi_-_Meddi.md)
+✓ LINA - fiche créée avec infos limitées (LINA_-_LINA.md)
+✓ Scrub AI - fiche créée (Scrub_AI_-_Scrub_AI.md)
+✓ pibit.ai - fiche créée (pibit_ai_-_pibit_ai.md)
+✓ SEOPA - fiche créée (SEOPA_-_SEOPA.md)
+✓ Perfios - fiche existante (Perfios_Software_Solutions_-_Perfios_Analyze.md)
+✓ nearmap - fiche créée (nearmap_-_nearmap.md)
+
+=== À TRAITER ===
+
+
+
+
+DONNÉES & ANALYTIQUE (Data & Analytics)
+
+RISK WOLF
+Fintech Capital
+Bessemer Venture Partners
+KAYUM
+securtrends
+wedoctors
+Meghna Mercado de Seguros
+
+
+ÉCOSYSTÈMES & PLATEFORMES (Ecosystems)
+
+WechselGott
+QUOTA
+Matchture
+InsurTechologies
+Sensedia
+Silverbulett
+K2 Innovations
+IDGON
+DIGISURE
+Reitigh
+Cavern
+Zentera
+
+
+SYSTÈMES D'ADMINISTRATION (Administration Systems)
+
+Dizmo
+DRC (Digital Rail Company)
+CyberIntell
+CLARSPEED
+amsive
+Kern
+Zentera
+InterMx
+Zentera Systems
+INSILLION
+
+
+GESTION DES SINISTRES (Claims Management)
+
+
+PROCESSUS D'AUTOMATISATION (Process Automation)
+
+Zinnia
+SLK
+servicenow
+Ringba
+Phonexa
+Zenarate
+airkit
+WAVE
+Capp
+SCALING
+Capp
+Keli
+
+
+MARKETING & ENGAGEMENT CLIENT (Marketing & Client Engagement)
+
+ACI Worldwide
+THINK FUTURE
+VIU by HUB
+allo SOLUTIONS
+Ringba
+Phonexa
+NTT Data
+Zinnia
+Zenarate
+Fusion
+Encartrack
+Copis
+Roche Industries
+Bravo
+Dizmo
+
+
+SOUSCRIPTION & GESTION DU RISQUE (Underwriting & Risk Management)
+
+norton (Underwriting by a Moody's Analytics Company)
+EVERTAS
+DocDoc
+FASST
+SUTHUB
+Eye
+SolaLink
+RiskWolf
+
+
+SANTÉ & BIEN-ÊTRE (Health & Wellness)
+
+limehealth
+DocDoc
+Atic Digital Health
+Mediapp
+BREETHY
+SAKYO
+Keiran
+Fresh
+Mixcare Health
+SET SAIL Software
+Ever
+Capgemini
+IMT Care
+Kinsul
+Mercado Pepo
+
+
+NOUVELLES INNOVATIONS MÉTIER (New Business Models)
+
+uthere
+Kenbright
+VIU by HUB
+bimonplan
+alea
+IDGON
+DIGISURE
+COVRZY
+Intelli Boosur
+Beshak
+MICRO Insurance
+Climab
+Clemà
+NomyAI (Journey)
+Agira
+Eazy
+
+
+SERVICES DE SUPPORT (Support Services)
+
+Cavern Intelligence
+Support Partners
+Q18 Ventures
+Fintech Association of Hong Kong
+India Insurtech Association
+Singapore FinTech Association
+
+
+INNOVATIONS CHAÎNE DE VALEUR (Value Chain Innovations)
+
+hapi
+LOGO
+switch.
+Meight
+LLUM
+TOOLTO
+Agira
+Polimorph PRO
+LiveEC
+Agira
+thinktum
+DRC
+Encartrack
+Encartrack
+Agira
+Agira
+SET SAIL Software
+Zipmex
+Kensington
+Telecom
+Zentera
+
+
+PLATEFORMES COMMERCIALES (Commercial Platforms)
+
+insureQ
+
+
+SOLUTIONS DIRECTES (Direct)
+
+CLIO SOLUTIONS
+WAVE
+airkit
+Kayna
+ITUS
+Joyful
+nowo
+
+
+SITES DE COMPARAISON (Comparison Sites)
+
+Builders
+futurity
+Norton
+
+
+AUTRES ACTEURS MAJEURS
+
+Greentel
+Cloudwise
+Bessemer Venture Partners
+Reitigh
+Caverna
+Transpoaco
+Skytek
+Geonsure
+DPal
+nova benefits
+WURTH IT
+kaya
+Know Your Customer
+SmallMallow
+Wise Doctors
+CIRDAS
+Finch Capital
+Agira
+Eazy
+Mediapp
+Journey
+Climà
+Coop & Wallet
+Milliman
+Capgemini
+Airkit
+Etsy Insurance
+Insuarama
+ManeyWay
+InsureHere
+Yoko
+Zebra
+Duppla
+Eye
+SeqTrends
