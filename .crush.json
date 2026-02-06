@@ -1,0 +1,11 @@
+{
+  "$schema": "https://charm.land/crush.json",
+  "mcp": {
+    "browsermcp": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["@browsermcp/mcp@latest"],
+      "timeout": 600
+    }
+  }
+}

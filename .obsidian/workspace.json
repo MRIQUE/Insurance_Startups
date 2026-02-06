@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "14e57a627de7d6a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99be8fd9ee73772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3108d477d5e86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agent"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0337a1c84f344586",
+    "type": "split",
+    "children": [
+      {
+        "id": "877f0222a4b35092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41b4e2126eecfe49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd95ca97700a4af9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4932bd1f5f19dc71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 591.5
+  },
+  "right": {
+    "id": "c642bc11c843a129",
+    "type": "split",
+    "children": [
+      {
+        "id": "3da2a65b17a93c71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1e050e304a94ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "session_veille/2026-01-08_0755_G2_Claims_Startups.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-01-08_0755_G2_Claims_Startups"
+            }
+          },
+          {
+            "id": "02bd18abbf563136",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "session_veille/2026-01-08_0755_G2_Claims_Startups.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-01-08_0755_G2_Claims_Startups"
+            }
+          },
+          {
+            "id": "2e4330225a561f56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d24f5ce7d925323d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fb7cf1ef63048b09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "session_veille/2026-01-08_0755_G2_Claims_Startups.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-01-08_0755_G2_Claims_Startups"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fd3108d477d5e86d",
+  "lastOpenFiles": [
+    "index_solutions.md",
+    "tracking_actions.md",
+    "agent.md",
+    "Fiches_Solutions/A1_Tracker_-_A1_Tracker.md",
+    "tracking_actions.md.tmp.50292.1770274939787",
+    "session_veille/2026-02-05_Page6_G2_Claims.md",
+    "session_veille/archive/2026-02-05_Page10_G2_Claims.md",
+    "session_veille/archive/2026-02-05_Page8_G2_Claims.md",
+    "session_veille/archive/2026-02-05_Page7_G2_Claims.md",
+    "session_veille/archive/2026-02-05_Page6_G2_Claims.md",
+    "Fiches_Solutions/E-Claim.com_-_ClickClaims.md",
+    "Fiches_Solutions/District_Cover_-_District_Cover.md",
+    "Fiches_Solutions/Snapsheet_-_Snapsheet_Claims.md",
+    "session_veille/2026-02-05_Page7_G2_Claims.md",
+    "Fiches_Solutions/ClaimDeck_-_ClaimDeck.md",
+    "Fiches_Solutions/Honeycomb_-_Honeycomb_Insurance.md",
+    "Fiches_Solutions/Carpe_Data_-_ClaimsX.md",
+    "Fiches_Solutions/Bluespine_-_Bluespine.md",
+    "session_veille/2026-02-05_Page8_G2_Claims.md",
+    "Fiches_Solutions/AutoClaims_Direct_-_Clarity.md",
+    "Fiches_Solutions/Alan_-_Alan.md",
+    "Fiches_Solutions/360Globalnet_-_360SiteView.md",
+    "Fiches_Solutions/A1_Enterprise_-_A1_Tracker.md",
+    "Fiches_Solutions/Acrometis_-_CLAIMExpert.md",
+    "Fiches_Solutions/Amenli_-_Amenli.md",
+    "session_veille/2026-02-05_Page10_G2_Claims.md",
+    "Fiches_Solutions/Duck_Creek_-_Claims.md",
+    "Fiches_Solutions/Ventiv_Technology_-_Ventiv_Claims.md.tmp.50292.1770273542208",
+    "Fiches_Solutions/ICE-Tech_-_NIS_Claims_Assistance.md.tmp.50292.1770273530092",
+    "Fiches_Solutions/MDI_-_Claims_Manager.md.tmp.50292.1770273484928",
+    "Fiches_Solutions/EIS_-_ClaimCore.md.tmp.50292.1770273432539",
+    "tracking_actions.md.tmp.50292.1770272534907",
+    "tracking_actions.md.tmp.50292.1770272532819",
+    "index_solutions.md.tmp.50292.1770272508219",
+    "Fiches_Solutions/District_Cover_-_District_Cover.md.tmp.50292.1770272494295",
+    "tracking_actions.md.tmp.50292.1770272417789"
+  ]
+}

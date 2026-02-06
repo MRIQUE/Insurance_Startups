@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(dir \"C:\\\\temp\\\\claims_startup\" /B)",
+      "Bash(wc:*)",
+      "WebFetch(domain:www.g2.com)",
+      "Bash(dir \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\")",
+      "Bash(dir:*)",
+      "Bash(if not exist \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\JW_Software_-_FileHandler_Enterprise.md\" echo \"File does not exist\" else echo \"File exists\")",
+      "Bash(ls \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\"\" | findstr /I \"FileHandler \")",
+      "Bash(ls \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\"\" | findstr /I \"Verisk \")",
+      "Bash(ls:*)",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\APP_Tech_-_Cloud_Claims.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\JW_Software_-_FileHandler_Enterprise.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\BriteCore_-_BriteCore.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Duck_Creek_-_Claims.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\FINEOS_-_FINEOS_Claims.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Riskonnect_-_Riskonnect_Claims_Management.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Snapsheet_-_Snapsheet.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Terra_-_Terra.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Aclaimant_-_Aclaimant.md\")",
+      "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Claimable_-_Claims_Management_Software.md\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
