@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd3108d477d5e86d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches_Solutions/Loss_Scan_-_Loss_Scan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loss_Scan_-_Loss_Scan"
-            }
-          },
-          {
-            "id": "ae6dd5f4f4e2bf71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches_Solutions/Truepic_-_Truepic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Truepic_-_Truepic"
-            }
-          },
-          {
-            "id": "799944cd5905bf3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inputs/Finovox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finovox"
-            }
-          },
-          {
-            "id": "0b931e2eac14e441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inputs/Finovox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finovox"
-            }
-          },
-          {
             "id": "6c04e6a25897a82c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inputs/Miralia.md",
+                "file": "Fiches_Solutions/Photocert_-_Photocert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miralia"
+              "title": "Photocert_-_Photocert"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,41 +185,41 @@
   },
   "active": "41b4e2126eecfe49",
   "lastOpenFiles": [
-    "Inputs/Finovox.md",
-    "Inputs/Miralia.md",
-    "Inputs/keeex.md",
-    "Fiches_Solutions/Truepic_-_Truepic.md",
-    "Inputs/Kinro.ai.md",
-    "Fiches_Solutions/Kinro_-_Kinro.ai.md",
-    "Inputs/TruePic.md",
-    "Fiches_Solutions/Loss_Scan_-_Loss_Scan.md",
-    "Inputs/startups à ajouter.md",
-    "Fiches_Solutions/claimsforce_-_claimsforce.md",
-    "Fiches_Solutions/Simplifai_-_Simplifai.md",
-    "Fiches_Solutions/Claim_Technology_-_Claim_Technology.md",
-    "Fiches_Solutions/Resistant_AI_-_Resistant_AI.md",
-    "Inputs/resistant.ai.md",
-    "Fiches_Solutions/Polimorph_PRO_-_Polimorph.md",
-    "Fiches_Solutions/ViClarity_-_ViClarity.md",
-    "Fiches_Solutions/Sprout.ai_-_Sprout.ai.md",
-    "Fiches_Solutions/Sola_-_Sola.md",
-    "Fiches_Solutions/Snapsheet_-_Snapsheet_Claims.md",
-    "session_veille/archive/2026-02-03_1440_Akur8.md",
-    "Fiches_Solutions/WeProov_-_WeProov.md",
-    "Fiches_Solutions/Tractable_-_Tractable_AI.md",
-    "Inputs/qapter.txt",
-    "Inputs/Nouveau Document texte.txt",
-    "Inputs/weprov.txt",
-    "Fiches_Solutions/Simplifai_-_Simplifai.md.tmp.11072.1774300126310",
-    "agent.md",
-    "index_solutions.md",
-    "tracking_actions.md",
-    "Fiches_Solutions/JBKnowledge_-_Terra.md",
-    "Inputs/inputs a lire.txt.tmp.50292.1770385988512",
-    "Fiches_Solutions/SEOPA_-_SEOPA.md.tmp.50292.1770385856411",
-    "Fiches_Solutions/pibit_ai_-_pibit_ai.md.tmp.50292.1770385775648",
-    "Fiches_Solutions/Perceptiviti_-_Sherlock_AI.md.tmp.50292.1770383794286",
-    "Fiches_Solutions/InsurZine_-_InsurZine.md.tmp.50292.1770381847710",
-    "Fiches_Solutions/iLife_-_iLife_Technologies.md.tmp.50292.1770380982364"
+    "tracking_actions.md.tmp.23792.1774462656793",
+    "session_veille/archive/2026-03-25_1600_Glanceable.md",
+    "tracking_actions.md.tmp.23792.1774462619074",
+    "index_solutions.md.tmp.23792.1774462605162",
+    "Fiches_Solutions/Unitary_-_Virtual_Agents.md",
+    "Fiches_Solutions/Pebbles_Financial_Solutions_-_Granite.md",
+    "Fiches_Solutions/Magicyo_-_Magicyo_IoT.md",
+    "Fiches_Solutions/Glanceable_-_Glanceable.md",
+    "Fiches_Solutions/MavenBlue_-_MavenBlue.md",
+    "Fiches_Solutions/MavenBlue_-_MavenBlue.md.tmp.23792.1774462570922",
+    "session_veille/archive/2026-03-25_1500_Second_Nature_AI.md",
+    "session_veille/2026-03-25_1200_Pebbles_Financial_Solutions.md",
+    "Fiches_Solutions/Pigeon_-_Pigeon_Subjectivities.md",
+    "tracking_actions.md.tmp.23792.1774462563341",
+    "session_veille/2026-03-25_1600_Glanceable.md",
+    "session_veille/2026-03-25_1600_Glanceable.md.tmp.23792.1774462557830",
+    "Fiches_Solutions/Seenity_-_Seenity.md",
+    "Fiches_Solutions/Skan_AI_-_Skan_Process_Intelligence.md",
+    "Fiches_Solutions/7Analytics_-_7Analytics.md",
+    "Fiches_Solutions/7Analytics_-_7Analytics.md.tmp.23792.1774462552830",
+    "session_veille/2026-03-25_1500_Unitary_AI.md",
+    "Fiches_Solutions/TrustNXT_-_TrustNXT.md",
+    "Fiches_Solutions/Pecan_AI_-_Pecan.md",
+    "Fiches_Solutions/Second_Nature_AI_-_Second_Nature.md",
+    "Fiches_Solutions/Meelo_-_Meelo.md",
+    "Fiches_Solutions/Meelo_-_Meelo.md.tmp.23792.1774462528422",
+    "Fiches_Solutions/Quantexa_-_Quantexa_Decision_Intelligence.md",
+    "session_veille/2026-03-25_1500_Second_Nature_AI.md",
+    "Fiches_Solutions/Cogent_Labs_-_SmartRead.md",
+    "Fiches_Solutions/V7_-_V7_Go.md",
+    "Fiches_Solutions/Hyperscience_-_Hypercell.md",
+    "Fiches_Solutions/Indico_Data_-_Indico_Data.md",
+    "Fiches_Solutions/Nanonets_-_Nanonets.md",
+    "Fiches_Solutions/Rossum_-_Rossum_Aurora.md.tmp.23792.1774461900643",
+    "tracking_actions.md.tmp.23792.1774461449540",
+    "Fiches_Solutions/Trend_Tracker_-_Trend_Tracker.md.tmp.23792.1774461439785"
   ]
 }
