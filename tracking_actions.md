@@ -5,6 +5,14 @@ Format : `YYYY-MM-DD HH:mm | ACTION | FICHIER_SOURCE | FICHIER_CIBLE`
 
 | Date       | Action         | Source (Veille)                                      | Cible (Fiche)                                                                                                    |
 | ---------- | -------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2026-03-25 | SCOUT          | Recherche web Pebbles Financial Solutions             | session_veille/2026-03-25_1200_Pebbles_Financial_Solutions.md                                                    |
+| 2026-03-25 | CREATION       | 2026-03-25_1200_Pebbles_Financial_Solutions.md        | Pebbles_Financial_Solutions_-_Granite.md                                                                         |
+| 2026-03-25 | CREATION       | 2026-03-25_1500_Unitary_AI.md                        | Unitary_-_Virtual_Agents.md                                                                                      |
+| 2026-03-25 | SCOUT          | Recherche web Unitary AI                             | session_veille/2026-03-25_1500_Unitary_AI.md                                                                     |
+| 2026-03-25 | SCOUT          | Recherche web Glanceable                             | session_veille/2026-03-25_1600_Glanceable.md                                                                     |
+| 2026-03-25 | CREATION       | 2026-03-25_1600_Glanceable.md                        | Glanceable_-_Glanceable.md                                                                                       |
+| 2026-03-25 | SCOUT          | Recherche web Second Nature AI                       | session_veille/2026-03-25_1500_Second_Nature_AI.md                                                               |
+| 2026-03-25 | CREATION       | 2026-03-25_1500_Second_Nature_AI.md                  | Second_Nature_AI_-_Second_Nature.md                                                                              |
 | 2026-03-25 | SCOUT          | Recherche web Cogent Labs                            | session_veille/2026-03-25_1400_Cogent_Labs.md                                                                    |
 | 2026-03-25 | CREATION       | 2026-03-25_1400_Cogent_Labs.md                       | Cogent_Labs_-_SmartRead.md                                                                                       |
 | 2026-01-08 | CREATION       | 2026-01-08_0734_ClaimsTech_Startups_Overview.md      | OWL_-_OWL.co.md                                                                                                  |

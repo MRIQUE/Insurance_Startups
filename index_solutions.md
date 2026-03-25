@@ -75,6 +75,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Five Sigma | Five Sigma CMS | [Five_Sigma_-_Five_Sigma_CMS.md](Fiches_Solutions/Five_Sigma_-_Five_Sigma_CMS.md) |
 | Further AI | Further AI | [Further_AI_-_Further_AI.md](Fiches_Solutions/Further_AI_-_Further_AI.md) |
 | Granted | Granted | [Granted_-_Granted.md](Fiches_Solutions/Granted_-_Granted.md) |
+| Glanceable | Glanceable | [Glanceable_-_Glanceable.md](Fiches_Solutions/Glanceable_-_Glanceable.md) |
 | Guidewire | Guidewire ClaimCenter | [Guidewire_-_Guidewire_ClaimCenter.md](Fiches_Solutions/Guidewire_-_Guidewire_ClaimCenter.md) |
 | Guidewire | Guidewire InsuranceNow | [Guidewire_-_Guidewire_InsuranceNow.md](Fiches_Solutions/Guidewire_-_Guidewire_InsuranceNow.md) |
 | Guidewire | Guidewire InsuranceSuite | [Guidewire_-_Guidewire_InsuranceSuite.md](Fiches_Solutions/Guidewire_-_Guidewire_InsuranceSuite.md) |
@@ -125,6 +126,7 @@ Format : `| Editeur | Solution | Fichier |`
 | PCIS | ClaimsVision | [PCIS_-_ClaimsVision.md](Fiches_Solutions/PCIS_-_ClaimsVision.md) |
 | PCMI | PCRS | [PCMI_-_PCRS.md](Fiches_Solutions/PCMI_-_PCRS.md) |
 | Penguin Ai | Penguin Ai | [Penguin_Ai_-_Penguin_Ai.md](Fiches_Solutions/Penguin_Ai_-_Penguin_Ai.md) |
+| Pebbles Financial Solutions | Granite | [Pebbles_Financial_Solutions_-_Granite.md](Fiches_Solutions/Pebbles_Financial_Solutions_-_Granite.md) |
 | Perfios Software Solutions | Perfios Analyze | [Perfios_Software_Solutions_-_Perfios_Analyze.md](Fiches_Solutions/Perfios_Software_Solutions_-_Perfios_Analyze.md) |
 | Pinpoint Predictive | Pinpoint | [Pinpoint_Predictive_-_Pinpoint.md](Fiches_Solutions/Pinpoint_Predictive_-_Pinpoint.md) |
 | Qantev | Qantev | [Qantev_-_Qantev.md](Fiches_Solutions/Qantev_-_Qantev.md) |
@@ -143,6 +145,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Roots | Roots Automation | [Roots_-_Roots_Automation.md](Fiches_Solutions/Roots_-_Roots_Automation.md) |
 | Salvato | Salvato TLX | [Salvato_-_Salvato_TLX.md](Fiches_Solutions/Salvato_-_Salvato_TLX.md) |
 | Sapiens | Sapiens ClaimsPro | [Sapiens_-_Sapiens_ClaimsPro.md](Fiches_Solutions/Sapiens_-_Sapiens_ClaimsPro.md) |
+| Second Nature AI | Second Nature | [Second_Nature_AI_-_Second_Nature.md](Fiches_Solutions/Second_Nature_AI_-_Second_Nature.md) |
 | Shift Technology | Shift PC Claims Intake Decisions | [Shift_Technology_-_Shift_PC_Claims_Intake_Decisions.md](Fiches_Solutions/Shift_Technology_-_Shift_PC_Claims_Intake_Decisions.md) |
 | Shift Technology | Shift Technology | [Shift_Technology_-_Shift_Technology.md](Fiches_Solutions/Shift_Technology_-_Shift_Technology.md) |
 | Sixfold | Sixfold | [Sixfold_-_Sixfold.md](Fiches_Solutions/Sixfold_-_Sixfold.md) |
@@ -163,6 +166,7 @@ Format : `| Editeur | Solution | Fichier |`
 | The SSI Group | SSI Claims Management | [The_SSI_Group_-_SSI_Claims_Management.md](Fiches_Solutions/The_SSI_Group_-_SSI_Claims_Management.md) |
 | Upcover | Upcover | [Upcover_-_Upcover.md](Fiches_Solutions/Upcover_-_Upcover.md) |
 | Upstage | Upstage | [Upstage_-_Upstage.md](Fiches_Solutions/Upstage_-_Upstage.md) |
+| Unitary | Virtual Agents | [Unitary_-_Virtual_Agents.md](Fiches_Solutions/Unitary_-_Virtual_Agents.md) |
 | ValueChecker | ValueChecker | [ValueChecker_-_ValueChecker.md](Fiches_Solutions/ValueChecker_-_ValueChecker.md) |
 | Venteur | Venteur | [Venteur_-_Venteur.md](Fiches_Solutions/Venteur_-_Venteur.md) |
 | Ventiv Technology | Ventiv Claims | [Ventiv_Technology_-_Ventiv_Claims.md](Fiches_Solutions/Ventiv_Technology_-_Ventiv_Claims.md) |
@@ -183,8 +187,8 @@ Format : `| Editeur | Solution | Fichier |`
 
 ---
 
-**Total** : 173 solutions documentées
-**Dernière mise à jour** : 2026-02-05
+**Total** : 174 solutions documentées
+**Dernière mise à jour** : 2026-03-25
 
 ## Solutions en attente d'identification
 
