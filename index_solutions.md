@@ -38,6 +38,7 @@ Format : `| Editeur | Solution | Fichier |`
 | ClaimVantage | ClaimVantage Claims Management | [ClaimVantage_-_ClaimVantage_Claims_Management.md](Fiches_Solutions/ClaimVantage_-_ClaimVantage_Claims_Management.md) |
 | Claimable | Claimable | [Claimable_-_Claimable.md](Fiches_Solutions/Claimable_-_Claimable.md) |
 | Claimable | Claims Management Software | [Claimable_-_Claims_Management_Software.md](Fiches_Solutions/Claimable_-_Claims_Management_Software.md) |
+| Clearspeed | Clearspeed Verbal | [Clearspeed_-_Clearspeed_Verbal.md](Fiches_Solutions/Clearspeed_-_Clearspeed_Verbal.md) |
 | ClearRisk | ClearRisk | [ClearRisk_-_ClearRisk.md](Fiches_Solutions/ClearRisk_-_ClearRisk.md) |
 | Coalition | Coalition Active Insurance | [Coalition_-_Coalition_Active_Insurance.md](Fiches_Solutions/Coalition_-_Coalition_Active_Insurance.md) |
 | CompScience | CompScience | [CompScience_-_CompScience.md](Fiches_Solutions/CompScience_-_CompScience.md) |
