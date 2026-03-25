@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent.md",
+                "file": "Fiches_Solutions/Loss_Scan_-_Loss_Scan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agent"
+              "title": "Loss_Scan_-_Loss_Scan"
+            }
+          },
+          {
+            "id": "ae6dd5f4f4e2bf71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiches_Solutions/Truepic_-_Truepic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Truepic_-_Truepic"
+            }
+          },
+          {
+            "id": "799944cd5905bf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inputs/Finovox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finovox"
+            }
+          },
+          {
+            "id": "0b931e2eac14e441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inputs/Finovox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finovox"
+            }
+          },
+          {
+            "id": "6c04e6a25897a82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inputs/Miralia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miralia"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,7 +101,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -61,7 +118,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -174,52 +231,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "fd3108d477d5e86d",
+  "active": "41b4e2126eecfe49",
   "lastOpenFiles": [
+    "Inputs/Finovox.md",
+    "Inputs/Miralia.md",
+    "Inputs/keeex.md",
+    "Fiches_Solutions/Truepic_-_Truepic.md",
+    "Inputs/Kinro.ai.md",
+    "Fiches_Solutions/Kinro_-_Kinro.ai.md",
+    "Inputs/TruePic.md",
+    "Fiches_Solutions/Loss_Scan_-_Loss_Scan.md",
+    "Inputs/startups à ajouter.md",
+    "Fiches_Solutions/claimsforce_-_claimsforce.md",
+    "Fiches_Solutions/Simplifai_-_Simplifai.md",
+    "Fiches_Solutions/Claim_Technology_-_Claim_Technology.md",
+    "Fiches_Solutions/Resistant_AI_-_Resistant_AI.md",
+    "Inputs/resistant.ai.md",
+    "Fiches_Solutions/Polimorph_PRO_-_Polimorph.md",
+    "Fiches_Solutions/ViClarity_-_ViClarity.md",
+    "Fiches_Solutions/Sprout.ai_-_Sprout.ai.md",
+    "Fiches_Solutions/Sola_-_Sola.md",
+    "Fiches_Solutions/Snapsheet_-_Snapsheet_Claims.md",
+    "session_veille/archive/2026-02-03_1440_Akur8.md",
+    "Fiches_Solutions/WeProov_-_WeProov.md",
+    "Fiches_Solutions/Tractable_-_Tractable_AI.md",
+    "Inputs/qapter.txt",
+    "Inputs/Nouveau Document texte.txt",
+    "Inputs/weprov.txt",
+    "Fiches_Solutions/Simplifai_-_Simplifai.md.tmp.11072.1774300126310",
+    "agent.md",
     "index_solutions.md",
     "tracking_actions.md",
-    "agent.md",
-    "Fiches_Solutions/A1_Tracker_-_A1_Tracker.md",
-    "tracking_actions.md.tmp.50292.1770274939787",
-    "session_veille/2026-02-05_Page6_G2_Claims.md",
-    "session_veille/archive/2026-02-05_Page10_G2_Claims.md",
-    "session_veille/archive/2026-02-05_Page8_G2_Claims.md",
-    "session_veille/archive/2026-02-05_Page7_G2_Claims.md",
-    "session_veille/archive/2026-02-05_Page6_G2_Claims.md",
-    "Fiches_Solutions/E-Claim.com_-_ClickClaims.md",
-    "Fiches_Solutions/District_Cover_-_District_Cover.md",
-    "Fiches_Solutions/Snapsheet_-_Snapsheet_Claims.md",
-    "session_veille/2026-02-05_Page7_G2_Claims.md",
-    "Fiches_Solutions/ClaimDeck_-_ClaimDeck.md",
-    "Fiches_Solutions/Honeycomb_-_Honeycomb_Insurance.md",
-    "Fiches_Solutions/Carpe_Data_-_ClaimsX.md",
-    "Fiches_Solutions/Bluespine_-_Bluespine.md",
-    "session_veille/2026-02-05_Page8_G2_Claims.md",
-    "Fiches_Solutions/AutoClaims_Direct_-_Clarity.md",
-    "Fiches_Solutions/Alan_-_Alan.md",
-    "Fiches_Solutions/360Globalnet_-_360SiteView.md",
-    "Fiches_Solutions/A1_Enterprise_-_A1_Tracker.md",
-    "Fiches_Solutions/Acrometis_-_CLAIMExpert.md",
-    "Fiches_Solutions/Amenli_-_Amenli.md",
-    "session_veille/2026-02-05_Page10_G2_Claims.md",
-    "Fiches_Solutions/Duck_Creek_-_Claims.md",
-    "Fiches_Solutions/Ventiv_Technology_-_Ventiv_Claims.md.tmp.50292.1770273542208",
-    "Fiches_Solutions/ICE-Tech_-_NIS_Claims_Assistance.md.tmp.50292.1770273530092",
-    "Fiches_Solutions/MDI_-_Claims_Manager.md.tmp.50292.1770273484928",
-    "Fiches_Solutions/EIS_-_ClaimCore.md.tmp.50292.1770273432539",
-    "tracking_actions.md.tmp.50292.1770272534907",
-    "tracking_actions.md.tmp.50292.1770272532819",
-    "index_solutions.md.tmp.50292.1770272508219",
-    "Fiches_Solutions/District_Cover_-_District_Cover.md.tmp.50292.1770272494295",
-    "tracking_actions.md.tmp.50292.1770272417789"
+    "Fiches_Solutions/JBKnowledge_-_Terra.md",
+    "Inputs/inputs a lire.txt.tmp.50292.1770385988512",
+    "Fiches_Solutions/SEOPA_-_SEOPA.md.tmp.50292.1770385856411",
+    "Fiches_Solutions/pibit_ai_-_pibit_ai.md.tmp.50292.1770385775648",
+    "Fiches_Solutions/Perceptiviti_-_Sherlock_AI.md.tmp.50292.1770383794286",
+    "Fiches_Solutions/InsurZine_-_InsurZine.md.tmp.50292.1770381847710",
+    "Fiches_Solutions/iLife_-_iLife_Technologies.md.tmp.50292.1770380982364"
   ]
 }

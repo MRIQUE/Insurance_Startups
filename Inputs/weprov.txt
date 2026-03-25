@@ -1,0 +1,74 @@
+
+
+
+explique l'histoire de la société WeProov, quel problème elle résoud et quelle solution elle propose, puis précise ses résultats et perspectives
+2 étapes terminées
+WeProov est une start-up française fondée en 2015 par Alexandre Meyer et Gabriel Tissandier (tous deux diplômés de l'ESCP), spécialisée dans la digitalisation de l'inspection et de l'état des lieux de véhicules. Elle est aujourd'hui devenue un terme générique dans le milieu automobile — certains opérateurs disent désormais « faire un WeProov » comme on dit « faire un Xerox ».
+​
+
+Le problème résolu
+Avant WeProov, les états des lieux de véhicules (à la location, à la restitution, lors de sinistres) se faisaient sur papier, de façon manuelle, chronophage, sujette aux litiges et impossible à certifier. En 2015, le marché concernait potentiellement plus de 5 milliards d'inspections annuelles réalisées sans traçabilité fiable. Les acteurs de la location, de la logistique et de l'assurance manquaient d'un outil permettant de prouver l'état d'un véhicule de façon incontestable.
+
+La solution proposée
+WeProov propose une application mobile de photo-scan guidé et certifié : l'utilisateur est accompagné étape par étape pour photographier toutes les parties du véhicule, et le rapport généré est géolocalisé, horodaté, signé électroniquement et archivé sur un serveur sécurisé. La plateforme s'articule aujourd'hui autour de quatre modules :
+​
+
+Produit	Usage	Résultat clé
+WeProov Partner	Loueurs courte durée, logisticiens, concessionnaires	Sécurisation des litiges et refacturation rapide
+WeProov Fleet	Loueurs longue durée, flottes entreprises	+1 M€ d'économies générées en 2024 (≈450 €/véhicule) 
+​
+WeProov Claim	Assureurs, déclaration de sinistres	300 000 sinistres traités en 2024, pré-estimation automatique par IA 
+​
+ProovStation	Inspection automatisée par portique	200 portiques déployés en France et aux États-Unis 
+​
+L'IA est intégrée dès 2020 pour identifier 15 types de dommages avec 80% de précision, puis enrichie en 2022 pour évaluer la qualité des photos, et en 2025 avec un outil d'analyse des écarts de facturation. Selon Alexandre Meyer, l'IA chez WeProov « accélère les prises de décision sans les prendre ».
+
+Résultats
+En dix ans d'activité, WeProov affiche des résultats significatifs :
+
++10 millions d'états des lieux réalisés depuis la création
+
++1 000 clients répartis équitablement entre ses quatre services
+
+Présence dans 13 pays, dont les États-Unis et le Canada
+
+80% du chiffre d'affaires en Europe, 20% en Amérique du Nord
+
+Croissance progressive : de 40 inspections/mois en 2015 à 90 000/mois avant le COVID, puis accélération post-pandémie
+
+Levée de fonds de 2 millions d'euros en 2017 pour financer le développement IA
+​
+
+WeProov a également un impact environnemental mesurable : sa solution Claim a permis d'éviter 60 000 km de déplacements sur six mois grâce à la digitalisation des déclarations de sinistres.
+​
+
+Perspectives
+La feuille de route 2025-2026 s'inscrit dans une logique de consolidation plutôt que de croissance précipitée :
+​
+
+Lancement de nouveaux modules pour enrichir les services Claim et Partner
+
+Ouverture de partenariats stratégiques en France et à l'international
+
+Fiabilisation de la chaîne « captation → analyse → rendu » via des logiciels tiers permettant de recouper les informations et d'identifier des tendances sectorielles
+​
+
+Réduction continue du coût de l'infrastructure IA (passée de 700 000 € à ~100 000 €/an pour le même volume de données)
+​
+
+WeProov se positionne ainsi comme un acteur de référence discret mais incontournable, avec un modèle inspiré d'Amazon et Salesforce : une obsession du service client avant tout.
+​
+ 
+
+Pourquoi les professionnels de l'automobile regrettent-ils certains choix d'alternatives à WeProov après 2-3 ans d'utilisation et quelles évolutions attendues pour 2026
+Recherche approfondie
+
+Qui sont Alexandre Meyer et Gabriel Tissandier
+
+Quelles sont les principales solutions comme WeProov Partner et Fleet
+
+Quels concurrents WeProov a-t-elle dans l'inspection digitale
+
+Quelles levées de fonds a réalisées WeProov
+
+

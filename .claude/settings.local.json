@@ -22,7 +22,12 @@
       "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Aclaimant_-_Aclaimant.md\")",
       "Bash(del \"C:\\\\temp\\\\claims_startup\\\\Fiches_Solutions\\\\Claimable_-_Claims_Management_Software.md\")",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(cmd /c dir /B)",
+      "WebFetch(domain:claimtechnology.co.uk)",
+      "WebFetch(domain:www.crunchbase.com)"
     ]
   }
 }

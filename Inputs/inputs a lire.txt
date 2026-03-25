@@ -49,6 +49,30 @@ Mets à jour ce fichier en supprimant les items quand ils sont traités
 ✓ Perfios - fiche existante (Perfios_Software_Solutions_-_Perfios_Analyze.md)
 ✓ nearmap - fiche créée (nearmap_-_nearmap.md)
 
+=== TRAITÉS LE 2026-02-06 (Cinquième vague) ===
+✓ RISK WOLF - fiche créée (RiskWolf_-_RiskWolf.md)
+✓ Fintech Capital - fiche créée comme Finch Capital (Finch_Capital_-_Finch_Capital.md)
+✓ Bessemer Venture Partners - fiche créée (Bessemer_Venture_Partners_-_BVP.md)
+✓ KAYUM - fiche créée (KAYUM_-_KAYUM.md)
+✓ securtrends - fiche créée avec infos limitées (securtrends_-_securtrends.md)
+✓ wedoctors - fiche créée (WeDoctors_-_WeDoctors.md)
+✓ Meghna Mercado de Seguros - fiche créée avec infos limitées (Meghna_-_Mercado_de_Seguros.md)
+✓ WechselGott - fiche créée INSOLVABLE (WechselGott_-_WechselGott.md)
+✓ QUOTA - fiche créée avec infos limitées (QUOTA_-_QUOTA.md)
+✓ Matchture - fiche créée avec infos limitées (Matchture_-_Matchture.md)
+
+=== TRAITÉS LE 2026-02-06 (Sixième vague) ===
+✓ InsurTechologies - fiche créée avec infos limitées (InsurTechologies_-_InsurTechologies.md)
+✓ Silverbulett - fiche créée comme 1Silverbullet (1Silverbullet_-_1Silverbullet.md)
+✓ K2 Innovations - fiche créée (K2_Innovation_-_K2_Innovation.md)
+✓ IDGON - fiche créée avec infos limitées (IDGON_-_IDGON.md)
+✓ DIGISURE - fiche créée CESSATION D'ACTIVITÉ 2024 (DigiSure_-_DigiSure.md)
+✓ Reitigh - fiche créée rebrandé Resolve (Reitigh_-_Resolve.md)
+✓ Cavern - fiche créée avec infos limitées (Cavern_-_Cavern.md)
+✓ Zentera - fiche créée avec infos limitées (Zentera_-_Zentera.md)
+✓ Dizmo - fiche créée (Dizmo_-_Dizmo.md)
+✓ DRC - fiche créée ACQUIS Majesco 2024 (DRC_-_Decision_Research_Corporation.md)
+
 === À TRAITER ===
 
 
@@ -56,35 +80,13 @@ Mets à jour ce fichier en supprimant les items quand ils sont traités
 
 DONNÉES & ANALYTIQUE (Data & Analytics)
 
-RISK WOLF
-Fintech Capital
-Bessemer Venture Partners
-KAYUM
-securtrends
-wedoctors
-Meghna Mercado de Seguros
-
 
 ÉCOSYSTÈMES & PLATEFORMES (Ecosystems)
 
-WechselGott
-QUOTA
-Matchture
-InsurTechologies
-Sensedia
-Silverbulett
-K2 Innovations
-IDGON
-DIGISURE
-Reitigh
-Cavern
-Zentera
 
 
 SYSTÈMES D'ADMINISTRATION (Administration Systems)
 
-Dizmo
-DRC (Digital Rail Company)
 CyberIntell
 CLARSPEED
 amsive
