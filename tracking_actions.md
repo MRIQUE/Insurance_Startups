@@ -5,6 +5,8 @@ Format : `YYYY-MM-DD HH:mm | ACTION | FICHIER_SOURCE | FICHIER_CIBLE`
 
 | Date       | Action         | Source (Veille)                                      | Cible (Fiche)                                                                                                    |
 | ---------- | -------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2026-03-25 | SCOUT          | Recherche web Cogent Labs                            | session_veille/2026-03-25_1400_Cogent_Labs.md                                                                    |
+| 2026-03-25 | CREATION       | 2026-03-25_1400_Cogent_Labs.md                       | Cogent_Labs_-_SmartRead.md                                                                                       |
 | 2026-01-08 | CREATION       | 2026-01-08_0734_ClaimsTech_Startups_Overview.md      | OWL_-_OWL.co.md                                                                                                  |
 | 2026-01-08 | CREATION       | 2026-01-08_0734_ClaimsTech_Startups_Overview.md      | Reserv_-_Reserv.md                                                                                               |
 | 2026-01-08 | CREATION       | 2026-01-08_0734_ClaimsTech_Startups_Overview.md      | Snapsheet_-_Snapsheet_Claims.md                                                                                  |
