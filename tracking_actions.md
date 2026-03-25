@@ -212,3 +212,23 @@ Format : `YYYY-MM-DD HH:mm | ACTION | FICHIER_SOURCE | FICHIER_CIBLE`
 | 2026-03-25 | SCOUT          | Recherche web Clearspeed                             | session_veille/2026-03-25_1400_Clearspeed.md                                                                      |
 | 2026-03-25 | CREATION       | 2026-03-25_1400_Clearspeed.md                        | Clearspeed_-_Clearspeed_Verbal.md                                                                                 |
 | 2026-03-25 | ARCHIVAGE      | 2026-03-25_1400_Clearspeed.md                        | session_veille/archive/                                                                                           |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | BytePitch_-_BytePitch.md                                                                                          |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | Code.Store_-_Code.Store.md                                                                                        |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | Dylogy_-_Dylogy.md                                                                                                |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | LINKIO_-_LINKIO.md                                                                                                |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | Newgen_Software_-_NewgenONE.md                                                                                    |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | Paperbox_-_Paperbox.md                                                                                            |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | Solveva_-_Actus.md                                                                                                |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | Sunlight_Solutions_-_Sunlight_Enterprise.md                                                                       |
+| 2026-03-25 | CREATION       | Catégorie Automatisation documentaire & BPM (9)      | Vera_-_Vera.md                                                                                                    |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Aurora_-_Aurora.md                                                                                                |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Continuity_-_Continuity.md                                                                                        |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Fluence_World_-_Fluence_World.md                                                                                  |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Miss_Moneypenny_-_Wallet_Studio.md                                                                                |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Nextway_-_Next_Digital_Workplace.md                                                                               |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Otonomi_-_Otonomi.md                                                                                              |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Pace_-_Pace.md                                                                                                    |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Peak3_-_Graphene.md                                                                                               |
+| 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Smarty_-_Smarty.md                                                                                                |
+| 2026-03-25 | NON IDENTIFIÉ  | Catégorie Niche / Spécialistes divers (13)           | Alarm, Amplifi, Apuk, Norton — aucune insurtech trouvée sous ces noms                                            |
+| 2026-03-25 | UPDATE         | index_solutions.md                                   | Ajout de 18 nouvelles fiches (174 → 192) + 4 sociétés en attente d'identification                                |
