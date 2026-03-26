@@ -2,10 +2,10 @@
 
 **Date de création du suivi** : 2026-03-26
 **Nombre total de fiches à réaliser** : 73
-**Fiches réalisées** : 44
-**Fiches restantes** : 29
+**Fiches réalisées** : 49
+**Fiches restantes** : 24
 
-> ℹ️ Dernière mise à jour : 2026-03-26 — Batch 2 complété (UnderwriteMe, Bound AI, Calvin Risk, GeoX, Mindstep)
+> ℹ️ Dernière mise à jour : 2026-03-26 — Batch 3 complété (Nolana AI, Optalitix, Spinnaker Analytics, INSTANDA, Novidea)
 
 ---
 
@@ -84,16 +84,16 @@
 | 32 | Calvin Risk | Souscription & Pricing | ✅ | 2026-03-26 |
 | 33 | GEOX.AI | Souscription & Pricing | ✅ | 2026-03-26 |
 | 34 | Mindstep | Souscription & Pricing | ✅ | 2026-03-26 |
-| 35 | Nolana AI | Souscription & Pricing | ⬜ | - |
+| 35 | Nolana AI | Souscription & Pricing | ✅ | 2026-03-26 |
 
 ## LOT 8 — Souscription suite + Plateformes core (5 fiches)
 
 | # | Société | Catégorie | Statut | Date/Heure émission |
 |---|---------|-----------|--------|---------------------|
-| 36 | Optalitix | Souscription & Pricing | ⬜ | - |
-| 37 | Spinnaker Analytics | Souscription & Pricing | ⬜ | - |
-| 38 | INSTANDA | Plateformes core | ⬜ | - |
-| 39 | Novidea | Plateformes core | ⬜ | - |
+| 36 | Optalitix | Souscription & Pricing | ✅ | 2026-03-26 |
+| 37 | Spinnaker Analytics | Souscription & Pricing | ✅ | 2026-03-26 |
+| 38 | INSTANDA | Plateformes core | ✅ | 2026-03-26 |
+| 39 | Novidea | Plateformes core | ✅ | 2026-03-26 |
 | 40 | Equisoft | Plateformes core | ⬜ | - |
 
 ## LOT 9 — Plateformes core suite (5 fiches)
