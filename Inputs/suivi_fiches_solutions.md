@@ -2,10 +2,10 @@
 
 **Date de création du suivi** : 2026-03-26
 **Nombre total de fiches à réaliser** : 73
-**Fiches réalisées** : 39
-**Fiches restantes** : 34
+**Fiches réalisées** : 44
+**Fiches restantes** : 29
 
-> ℹ️ Dernière mise à jour : 2026-03-26 — Batch 1 complété (Jeen, Mosaics, Earnix, Citalid, dacadoo)
+> ℹ️ Dernière mise à jour : 2026-03-26 — Batch 2 complété (UnderwriteMe, Bound AI, Calvin Risk, GeoX, Mindstep)
 
 ---
 
@@ -74,16 +74,16 @@
 | 27 | Earnix | Souscription & Pricing | ✅ | 2026-03-26 |
 | 28 | Citalid | Souscription & Pricing | ✅ | 2026-03-26 |
 | 29 | dacadoo | Souscription & Pricing | ✅ | 2026-03-26 |
-| 30 | UnderwriteMe | Souscription & Pricing | ⬜ | - |
+| 30 | UnderwriteMe | Souscription & Pricing | ✅ | 2026-03-26 |
 
 ## LOT 7 — Souscription & Pricing suite (5 fiches)
 
 | # | Société | Catégorie | Statut | Date/Heure émission |
 |---|---------|-----------|--------|---------------------|
-| 31 | Bound AI | Souscription & Pricing | ⬜ | - |
-| 32 | Calvin Risk | Souscription & Pricing | ⬜ | - |
-| 33 | GEOX.AI | Souscription & Pricing | ⬜ | - |
-| 34 | Mindstep | Souscription & Pricing | ⬜ | - |
+| 31 | Bound AI | Souscription & Pricing | ✅ | 2026-03-26 |
+| 32 | Calvin Risk | Souscription & Pricing | ✅ | 2026-03-26 |
+| 33 | GEOX.AI | Souscription & Pricing | ✅ | 2026-03-26 |
+| 34 | Mindstep | Souscription & Pricing | ✅ | 2026-03-26 |
 | 35 | Nolana AI | Souscription & Pricing | ⬜ | - |
 
 ## LOT 8 — Souscription suite + Plateformes core (5 fiches)
