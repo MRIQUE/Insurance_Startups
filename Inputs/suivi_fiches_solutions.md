@@ -2,10 +2,10 @@
 
 **Date de création du suivi** : 2026-03-26
 **Nombre total de fiches à réaliser** : 73
-**Fiches réalisées** : 49
-**Fiches restantes** : 24
+**Fiches réalisées** : 54
+**Fiches restantes** : 19
 
-> ℹ️ Dernière mise à jour : 2026-03-26 — Batch 3 complété (Nolana AI, Optalitix, Spinnaker Analytics, INSTANDA, Novidea)
+> ℹ️ Dernière mise à jour : 2026-03-26 — Batch 4 complété (Equisoft, InsureMO, SSP Limited, RDT, Genasys)
 
 ---
 
@@ -94,16 +94,16 @@
 | 37 | Spinnaker Analytics | Souscription & Pricing | ✅ | 2026-03-26 |
 | 38 | INSTANDA | Plateformes core | ✅ | 2026-03-26 |
 | 39 | Novidea | Plateformes core | ✅ | 2026-03-26 |
-| 40 | Equisoft | Plateformes core | ⬜ | - |
+| 40 | Equisoft | Plateformes core | ✅ | 2026-03-26 |
 
 ## LOT 9 — Plateformes core suite (5 fiches)
 
 | # | Société | Catégorie | Statut | Date/Heure émission |
 |---|---------|-----------|--------|---------------------|
-| 41 | InsureMO | Plateformes core | ⬜ | - |
-| 42 | SSP Limited | Plateformes core | ⬜ | - |
-| 43 | RDT | Plateformes core | ⬜ | - |
-| 44 | Genasys | Plateformes core | ⬜ | - |
+| 41 | InsureMO | Plateformes core | ✅ | 2026-03-26 |
+| 42 | SSP Limited | Plateformes core | ✅ | 2026-03-26 |
+| 43 | RDT | Plateformes core | ✅ | 2026-03-26 |
+| 44 | Genasys | Plateformes core | ✅ | 2026-03-26 |
 | 45 | ASC Technologies | Plateformes core | ⬜ | - |
 
 ## LOT 10 — Plateformes core suite (5 fiches)
