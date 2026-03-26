@@ -2,10 +2,10 @@
 
 **Date de création du suivi** : 2026-03-26
 **Nombre total de fiches à réaliser** : 73
-**Fiches réalisées** : 34
-**Fiches restantes** : 39
+**Fiches réalisées** : 39
+**Fiches restantes** : 34
 
-> ℹ️ Mise à jour 2026-03-26 : synchronisation avec l'état réel du repo (fiches créées lors de sessions précédentes mais non tracées).
+> ℹ️ Dernière mise à jour : 2026-03-26 — Batch 1 complété (Jeen, Mosaics, Earnix, Citalid, dacadoo)
 
 ---
 
@@ -53,7 +53,7 @@
 | 16 | Pecan | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
 | 17 | Skan AI | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
 | 18 | 7Analytics | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
-| 19 | Jeen | Data, Analytics & IA | ⬜ | - |
+| 19 | Jeen | Data, Analytics & IA | ✅ | 2026-03-26 |
 | 20 | Glanceable | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
 
 ## LOT 5 — Data, Analytics & IA transverse suite (5 fiches)
@@ -61,7 +61,7 @@
 | # | Société | Catégorie | Statut | Date/Heure émission |
 |---|---------|-----------|--------|---------------------|
 | 21 | MavenBlue | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
-| 22 | Mosaics | Data, Analytics & IA | ⬜ | - |
+| 22 | Mosaics | Data, Analytics & IA | ✅ | 2026-03-26 |
 | 23 | Magicyo | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
 | 24 | Pigeon Subjectivities | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
 | 25 | Second Nature AI | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
@@ -71,9 +71,9 @@
 | # | Société | Catégorie | Statut | Date/Heure émission |
 |---|---------|-----------|--------|---------------------|
 | 26 | Unitary AI | Data, Analytics & IA | ✅ | 2026-03-25 18:19 |
-| 27 | Earnix | Souscription & Pricing | ⬜ | - |
-| 28 | Citalid | Souscription & Pricing | ⬜ | - |
-| 29 | dacadoo | Souscription & Pricing | ⬜ | - |
+| 27 | Earnix | Souscription & Pricing | ✅ | 2026-03-26 |
+| 28 | Citalid | Souscription & Pricing | ✅ | 2026-03-26 |
+| 29 | dacadoo | Souscription & Pricing | ✅ | 2026-03-26 |
 | 30 | UnderwriteMe | Souscription & Pricing | ⬜ | - |
 
 ## LOT 7 — Souscription & Pricing suite (5 fiches)
