@@ -184,10 +184,28 @@ Format : `| Editeur | Solution | Fichier |`
 | i2go | i2go Insurance SaaS | [i2go_-_i2go_Insurance_SaaS.md](Fiches_Solutions/i2go_-_i2go_Insurance_SaaS.md) |
 | intellectSEEC | Intellect CBX-I Claims | [intellectSEEC_-_Intellect_CBX-I_Claims.md](Fiches_Solutions/intellectSEEC_-_Intellect_CBX-I_Claims.md) |
 | tigerlab | i2go | [tigerlab_-_i2go.md](Fiches_Solutions/tigerlab_-_i2go.md) |
+| Aurora | Aurora | [Aurora_-_Aurora.md](Fiches_Solutions/Aurora_-_Aurora.md) |
+| BytePitch | BytePitch | [BytePitch_-_BytePitch.md](Fiches_Solutions/BytePitch_-_BytePitch.md) |
+| code.store | code.store | [Code.Store_-_Code.Store.md](Fiches_Solutions/Code.Store_-_Code.Store.md) |
+| Continuity | Continuity | [Continuity_-_Continuity.md](Fiches_Solutions/Continuity_-_Continuity.md) |
+| Dylogy | Dylogy | [Dylogy_-_Dylogy.md](Fiches_Solutions/Dylogy_-_Dylogy.md) |
+| Fluence World | Fluence World | [Fluence_World_-_Fluence_World.md](Fiches_Solutions/Fluence_World_-_Fluence_World.md) |
+| LINKIO | LINKIO | [LINKIO_-_LINKIO.md](Fiches_Solutions/LINKIO_-_LINKIO.md) |
+| Miss Moneypenny Technologies | Wallet Studio | [Miss_Moneypenny_-_Wallet_Studio.md](Fiches_Solutions/Miss_Moneypenny_-_Wallet_Studio.md) |
+| Newgen Software | NewgenONE | [Newgen_Software_-_NewgenONE.md](Fiches_Solutions/Newgen_Software_-_NewgenONE.md) |
+| Nextway Software | Next® Digital Workplace | [Nextway_-_Next_Digital_Workplace.md](Fiches_Solutions/Nextway_-_Next_Digital_Workplace.md) |
+| Otonomi | Otonomi | [Otonomi_-_Otonomi.md](Fiches_Solutions/Otonomi_-_Otonomi.md) |
+| Pace | Pace | [Pace_-_Pace.md](Fiches_Solutions/Pace_-_Pace.md) |
+| Paperbox | Paperbox | [Paperbox_-_Paperbox.md](Fiches_Solutions/Paperbox_-_Paperbox.md) |
+| Peak3 | Graphene | [Peak3_-_Graphene.md](Fiches_Solutions/Peak3_-_Graphene.md) |
+| Smarty | Smarty | [Smarty_-_Smarty.md](Fiches_Solutions/Smarty_-_Smarty.md) |
+| Solveva | Actus | [Solveva_-_Actus.md](Fiches_Solutions/Solveva_-_Actus.md) |
+| Sunlight Solutions | Sunlight Enterprise | [Sunlight_Solutions_-_Sunlight_Enterprise.md](Fiches_Solutions/Sunlight_Solutions_-_Sunlight_Enterprise.md) |
+| Vera | Vera | [Vera_-_Vera.md](Fiches_Solutions/Vera_-_Vera.md) |
 
 ---
 
-**Total** : 174 solutions documentées
+**Total** : 192 solutions documentées
 **Dernière mise à jour** : 2026-03-25
 
 ## Solutions en attente d'identification
@@ -196,3 +214,7 @@ Les startups suivantes n'ont pas pu être identifiées lors de la veille :
 - **Sclera** : Aucune startup ClaimsTech trouvée sous ce nom
 - **CharterAI** : Aucune startup ClaimsTech trouvée sous ce nom
 - **IBN** : Aucune startup "Insurance Business Network" trouvée
+- **Alarm** : Aucune insurtech/startup d'assurance trouvée sous ce nom (seules des agences d'assurance traditionnelles pour le secteur alarme identifiées)
+- **Amplifi** : Aucune insurtech standalone trouvée sous ce nom (confusion possible avec Amplify Life ou Amwins Amplify)
+- **Apuk** : Seule correspondance trouvée — APUK Co. Ltd (IT hospitalier, Thaïlande) — sans lien avec l'assurance
+- **Norton** : Aucune insurtech/startup d'assurance trouvée sous ce nom (uniquement courtiers/agences traditionnels)
