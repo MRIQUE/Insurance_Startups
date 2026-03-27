@@ -43,6 +43,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Coalition | Coalition Active Insurance | [Coalition_-_Coalition_Active_Insurance.md](Fiches_Solutions/Coalition_-_Coalition_Active_Insurance.md) |
 | Cogent Labs | SmartRead | [Cogent_Labs_-_SmartRead.md](Fiches_Solutions/Cogent_Labs_-_SmartRead.md) |
 | CompScience | CompScience | [CompScience_-_CompScience.md](Fiches_Solutions/CompScience_-_CompScience.md) |
+| CoverGo | CoverGo | [CoverGo_-_CoverGo.md](Fiches_Solutions/CoverGo_-_CoverGo.md) |
 | Conduent | Healthcare Claims Management | [Conduent_-_Healthcare_Claims_Management.md](Fiches_Solutions/Conduent_-_Healthcare_Claims_Management.md) |
 | Counterpart | Counterpart | [Counterpart_-_Counterpart.md](Fiches_Solutions/Counterpart_-_Counterpart.md) |
 | CoverForce | CoverForce | [CoverForce_-_CoverForce.md](Fiches_Solutions/CoverForce_-_CoverForce.md) |
