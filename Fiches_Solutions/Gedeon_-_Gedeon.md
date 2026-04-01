@@ -1,38 +1,39 @@
 # Gedeon par Gedeon (Malakoff Humanis)
 
 ## Identité
-**Editeur** : Gedeon (acquis par Malakoff Humanis)
+**Editeur** : Gedeon (Betakorn, acquis par Malakoff Humanis en 2024)
 **Nom de la solution** : Gedeon
 **Date de mise à jour** : 2026-03-27
 
 ## Description
-Gedeon était une insurtech française spécialisée dans l'assurance santé digitale, fondée à Paris. La plateforme proposait une complémentaire santé 100% digitale avec une expérience utilisateur simplifiée : souscription en ligne rapide, gestion des remboursements via application mobile, et accès à des services de santé connectés. Gedeon se distinguait par son approche centrée sur l'expérience utilisateur et la transparence, offrant des parcours de santé personnalisés et un suivi en temps réel des remboursements. L'entreprise a été acquise par Malakoff Humanis, l'un des principaux groupes de protection sociale en France, dans le cadre de sa stratégie de digitalisation et d'innovation. Cette acquisition a permis à Malakoff Humanis d'accélérer sa transformation digitale en intégrant les compétences technologiques et l'approche customer-centric de Gedeon.
+Gedeon est une insurtech/fintech française spécialisée dans l'épargne retraite digitale pour les PME et TPE, fondée en 2022 à Lyon par Julien Jacquemin (CEO, actuaire avec 20+ ans d'expérience) et Jean-Baptiste Chalnot (COO). La plateforme propose un PERo (Plan d'Epargne Retraite obligatoire) 100% digital avec souscription entièrement en ligne, un portail mobile et web offrant aux salariés une vue 360° de leur retraite (régimes publics et privés agrégés), des simulateurs de projection et des thématiques d'investissement ESG/ISR. Gedeon opère avec sa société sœur KaribU Gestion (gestion back-office et versement des rentes), toutes deux détenues par le holding Betakorn. En avril 2023, l'entreprise a levé 2M€ auprès de business angels. En novembre 2023, Gedeon a remporté le Prix de la Jeune Pousse InsurTech. En mars 2024, Malakoff Humanis a pris une participation majoritaire dans Betakorn (35 employés, 1,5M€ de CA), dans le cadre de sa stratégie de croissance de l'épargne retraite de 5% à 10-15% de son activité d'ici 2026.
 
 ## Réputation
 **Note de réputation** : 6/10
-**Analyse** : Gedeon a démontré sa valeur en étant acquise par Malakoff Humanis, l'un des leaders de la protection sociale en France. Cette acquisition valide la technologie et l'approche digitale de Gedeon. Le marché de la complémentaire santé digitale en France est en pleine mutation, poussé par les attentes des nouvelles générations et la digitalisation des parcours de soins. L'intégration dans un grand groupe offre à la technologie Gedeon une base clients et des ressources significatives pour passer à l'échelle.
+**Analyse** : Gedeon a démontré sa pertinence en étant acquise par Malakoff Humanis (6,8Mds€ de CA, 414 000 clients entreprises), validant l'approche digitale de l'épargne retraite pour les PME/TPE. Le Prix de la Jeune Pousse InsurTech 2023 confirme la reconnaissance sectorielle. Le marché du PERo pour les petites entreprises est structurellement porteur grâce aux réformes de la loi PACTE. L'équipe fondatrice combine expertise actuarielle (5 actuaires) et technologique. La capacité à gérer l'intégralité de la chaîne de valeur (souscription, gestion, versement) sans dépendance aux systèmes legacy des assureurs constitue un avantage compétitif.
 
 ## Tags & Catégorisation
 
 ### Domaine & Périmètre
-#sante #complementaire-sante
+#epargne-retraite #pero #prevoyance #pme
 
 ### Acteurs & Rôles
-#assureur #assure
+#courtier #assure #employeur #assureur
 
 ### Cycle de vie
-#souscription #devis #gestion-polices #indemnisation
+#souscription #gestion-polices #simulation #conseil
 
 ### Capacités métier
-#gestion-remboursements #parcours-sante #workflow-metier
+#aggregation-retraite #simulateur #gestion-back-office #investissement-esg
 
 ### Technologie & IA
-#automatisation #digital-first #mobile-first
+#automatisation #digital-first #mobile-first #portail-salarie
 
 ### Autres Tags
-#insurtech #france #paris #acquisition #malakoff-humanis #sante-digitale #complementaire #protection-sociale
+#insurtech #fintech #france #lyon #acquisition #malakoff-humanis #betakorn #karibu #pero-digital #loi-pacte #pme #tpe #epargne-salariale #2m-leves
 
 ## Ressources
-**Présentation produit** : https://www.gedeon.co (inactif)
+**Présentation produit** : https://www.gedeon.co
 **Autres ressources** :
-- Malakoff Humanis : https://www.malakoffhumanis.com
+- Acquisition Malakoff Humanis : https://newsroom.malakoffhumanis.com/actualites/malakoff-humanis-prend-une-participation-majoritaire-au-capital-de-betakorn-holding-detenant-les-societes-karibu-et-gedeon-171f-63a59.html
+- Levée de fonds : https://www.jaimelesstartups.fr/news/gedeon-annonce-une-levee-de-fonds-de-2-millions-deuros/
