@@ -13,7 +13,7 @@
 
 | Nom | Poste | Parcours |
 |-----|-------|----------|
-| Lou Dana | Co-fondatrice & Présidente | PhD en pharmacie, diplômée de l'Ecole Polytechnique et HEC Paris Entrepreneurs. Créatrice du "Podcast du Luxe", podcast de référence sur le luxe en France |
+| Lou Dana | Co-fondatrice & Présidente | PhD en pharmacie, diplômée de l'Ecole Polytechnique et HEC Paris Entrepreneurs. Créatrice du "Podcast du Luxe", podcast de référence sur le luxe en France. A l'origine de Grace suite à une expérience personnelle de vol qui a révélé le manque de protection pour les biens de luxe |
 | Quentin Roy | Co-fondateur & CEO | Diplômé de l'Ecole Polytechnique et de l'Université de St. Gallen. Ancien de l'armée suisse et du Swiss Business Hub USA (Consulat Suisse à San Francisco) |
 | Martin Lenweiter | Co-fondateur & CTO | Diplômé en économie de l'Université de St. Gallen et en informatique de l'EPFL. Expérience fintech aux Pays-Bas |
 
@@ -57,12 +57,12 @@ Grace répond à une problématique croissante : la hausse des vols de biens de 
 - **80%** de données collectées CRM-ready
 
 ## Clients & Partenaires
-- **Messika** : joaillier parisien, déploie Grace sous le nom "Serenity Service"
-- **RIMOWA** (groupe LVMH) : bagagerie de luxe
-- **COPIN** : maroquinerie de luxe
-- **PHI 1.618** : horlogerie de luxe
-- **Chubb** : assureur global, underwriter et partenaire de scaling international
-- Collaboration annoncée avec un major luxury group (non nommé)
+- **Messika** : joaillier parisien, déploie Grace sous le nom "Messika's Serenity". Garantie de remplacement gratuite contre le vol pendant 2 ans après l'achat, pour les pièces de moins de 100 000 EUR achetées en boutiques participantes en France et sur le site européen. Le client reçoit une Carte d'Authenticité avec QR code vers le formulaire Grace
+- **RIMOWA** (groupe LVMH) : première maison de bagagerie de luxe à protéger TOUTES ses valises via un "Replacement Service". Le client reçoit un email à l'expédition avec un lien vers la plateforme Grace ; la valise s'enregistre automatiquement dans son compte Grace
+- **COPIN** : joaillier parisien, participant aux programmes pilotes
+- **PHI 1.618** : maroquinerie de luxe, participant aux programmes pilotes
+- **Chubb** : assureur global, underwriter des polices Grace et partenaire de scaling international (Grace n'est pas elle-même l'assureur)
+- Déploiement en cours avec un groupe européen de luxe majeur (non nommé, avril 2025)
 
 ## Financement détaillé
 
@@ -70,14 +70,15 @@ Grace répond à une problématique croissante : la hausse des vols de biens de 
 |------|------|---------|--------------------------|
 | Seed | Avril 2025 | 5,9M EUR | FinTech Collective (lead), Speedinvest (co-lead), Firstminute Capital, Purple (Laurent Ritter), Kima Ventures, Bpifrance, scouts Sequoia/a16z |
 
-**Angels notables** : Didier Valet (ex-DG Société Générale), Eric Mignot (fondateur +Simple)
+**Angels notables** : Didier Valet (ex-DG Société Générale), Eric Mignot (fondateur +Simple), Thomas Clozel (co-fondateur Owkin), Maxime Brousse, Josef Bovet, Martin Hartley
 
 ## Concurrents directs
 
 | Concurrent | Positionnement | Différence avec Grace |
 |------------|---------------|----------------------|
 | Assureurs traditionnels | Couverture biens de valeur via contrats classiques | Processus lourds, pas d'intégration e-commerce, pas de couverture globale seamless |
-| Zing Cover | Assurance spécialisée biens de luxe | Pas d'embedded insurance, pas de marque blanche pour les marques |
+| Cover Genius | Embedded insurance pour plateformes digitales mass-market (Booking, Ryanair, Hopper) | Pas de focus luxe, pas de service white-glove personnalisé pour les maisons de luxe |
+| Zing Cover | Assurance spécialisée biens de luxe (UK) | Pas d'embedded insurance, pas de marque blanche pour les marques |
 | Wefox | Insurtech généraliste (Europe) | Pas focalisé luxe, pas d'intégration dans le parcours d'achat |
 | Leocare | Insurtech française (auto/habitation) | Segment différent, pas de spécialisation luxe |
 
@@ -87,6 +88,7 @@ Grace répond à une problématique croissante : la hausse des vols de biens de 
 - Développement technologique : renforcement du protocole antifraude par IA
 - Élargissement du portefeuille de marques partenaires, avec potentiellement un major luxury group
 - Monétisation des données clients qualifiées pour les marques
+- Roadmap vers une suite complète de services de propriété luxe : tracking sécurisé, authentification et accès au marché secondaire
 
 ## Tags & Catégorisation
 
@@ -142,3 +144,7 @@ Grace répond à une problématique croissante : la hausse des vols de biens de 
 - LinkedIn : https://www.linkedin.com/company/gr-ce/
 - Tracxn : https://tracxn.com/d/companies/grace/
 - Speedinvest Portfolio : https://www.speedinvest.com/portfolio/grace
+- Messika Serenity Service : https://www.messika.com/en/messika-s-serenity-service
+- RIMOWA Replacement Service : https://www.rimowa.com/us/en/replacement-service-terms-conditions.html
+- Vestbee : https://www.vestbee.com/insights/articles/grace-secures-5-9-m
+- Grace Solution page : https://grace.io/en/solution
