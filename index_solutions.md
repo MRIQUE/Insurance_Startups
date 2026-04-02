@@ -8,6 +8,7 @@ Format : `| Editeur | Solution | Fichier |`
 | 360Globalnet | 360SiteView | [360Globalnet_-_360SiteView.md](Fiches_Solutions/360Globalnet_-_360SiteView.md) |
 | A1 Enterprise | A1 Tracker | [A1_Enterprise_-_A1_Tracker.md](Fiches_Solutions/A1_Enterprise_-_A1_Tracker.md) |
 | A1 Tracker | A1 Tracker | [A1_Tracker_-_A1_Tracker.md](Fiches_Solutions/A1_Tracker_-_A1_Tracker.md) |
+| ACV Auctions | ACV Auctions | [ACV_Auctions_-_ACV_Auctions.md](Fiches_Solutions/ACV_Auctions_-_ACV_Auctions.md) |
 | AI Insurance | AI Insurance | [AI_Insurance_-_AI_Insurance.md](Fiches_Solutions/AI_Insurance_-_AI_Insurance.md) |
 | APP Tech | Cloud Claims | [APP_Tech_-_Cloud_Claims.md](Fiches_Solutions/APP_Tech_-_Cloud_Claims.md) |
 | APP Technologies | Cloud Claims | [APP_Technologies_-_Cloud_Claims.md](Fiches_Solutions/APP_Technologies_-_Cloud_Claims.md) |
@@ -207,8 +208,8 @@ Format : `| Editeur | Solution | Fichier |`
 
 ---
 
-**Total** : 192 solutions documentées
-**Dernière mise à jour** : 2026-03-25
+**Total** : 193 solutions documentées
+**Dernière mise à jour** : 2026-04-02
 
 ## Solutions en attente d'identification
 
