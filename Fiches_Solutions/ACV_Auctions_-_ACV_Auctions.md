@@ -27,8 +27,10 @@ ACV Auctions est une entreprise technologique américaine cotée au Nasdaq (ACVA
 | CTO | Bahman Koohestani (depuis septembre 2021) |
 | CLO & Secrétaire | Timothy M. Fox |
 | COO | Vikas Mehta |
+| Chief Customer Success Officer | Joseph Neiman (co-fondateur) |
+| Chief Corporate Development & Strategy | Craig Anderson |
 
-**Conseil d'administration** : George Chamoun (CEO), Brian Hirsch (Tribeca Venture Partners), Rene Jones (CEO M&T Bank), Eileen Kamerick, Kirsten Castillo.
+**Conseil d'administration** : George Chamoun (CEO), Brian Hirsch (Tribeca Venture Partners), Rene Jones (CEO M&T Bank), Eileen Kamerick, Kirsten Castillo, Brian Radecki.
 
 ## Clients
 - Concessionnaires automobiles aux Etats-Unis (réseau de 125+ territoires)
@@ -43,9 +45,11 @@ ACV Auctions est une entreprise technologique américaine cotée au Nasdaq (ACVA
 | Tour | Montant | Investisseurs notables |
 |------|---------|----------------------|
 | 43North (2015) | 1 M$ | Concours 43North (Buffalo, NY) |
+| Series A (2016) | 5 M$ | -- |
+| Series B (~2017) | Non divulgué | Bessemer Venture Partners |
 | Series C (fév. 2018) | 31 M$+ | SoftBank Group |
 | Series D (déc. 2018) | Non divulgué | Bain Capital Ventures |
-| Series E (nov. 2019) | 150 M$ | Fidelity, Wellington Management |
+| Series E (~2020) | 150 M$ | Fidelity, Wellington Management, Bain Capital Ventures, Bessemer VP |
 
 **IPO** : 23 mars 2021, NASDAQ, 413,75 M$ levés, valorisation implicite de 3,85 milliards USD.
 
@@ -60,8 +64,8 @@ ACV Auctions est une entreprise technologique américaine cotée au Nasdaq (ACVA
 | EBITDA ajusté | -18 M$ | 28 M$ | 59 M$ | 73-77 M$ |
 | Perte nette GAAP | ~-75 M$ | -79,7 M$ | -66 M$ | -50 à -54 M$ |
 | Résultat net non-GAAP | -- | -- | 30 M$ | 31-35 M$ |
-| Véhicules vendus (marketplace) | -- | 743 008 | 829 276 | -- |
-| GMV marketplace | -- | 9,5 Md$ | 10,4 Md$ | -- |
+| Véhicules vendus (marketplace) | ~599 000 | 743 008 | 829 276 | -- |
+| GMV marketplace | ~8,9 Md$ | 9,5 Md$ | 10,4 Md$ | -- |
 
 **Cours de l'action** (avril 2026) : ~4,44 USD | Capitalisation boursière : ~750 M$ | Range 52 semaines : 4,07 - 17,54 USD.
 
@@ -69,10 +73,11 @@ ACV Auctions est une entreprise technologique américaine cotée au Nasdaq (ACVA
 
 | Acquisition | Date | Prix | Description |
 |-------------|------|------|-------------|
-| True360 | Pré-2021 | -- | Données historiques véhicules, intégré aux Data Services |
-| MAX Digital | Juillet 2021 | -- | Outils de gestion de stock, pricing prédictif et merchandising pour concessionnaires |
-| Monk SAS | Février 2022 | 19 M$ | Startup française d'IA de vision par ordinateur pour l'inspection automatisée de dommages véhicules (Paris) |
-| Drive | Août 2024 | -- | Marketplace automobile basée à Dublin, Irlande |
+| TrueFrame (True360) | 2019 | -- | Inspection structurelle et données historiques véhicules, intégré aux Data Services |
+| MAX Digital | Juillet 2021 | ~60 M$ | Outils de gestion de stock, pricing prédictif et merchandising pour concessionnaires |
+| Monk SAS | Février 2022 | 19 M$ | Startup française d'IA de vision par ordinateur pour l'inspection automatisée de dommages véhicules (Paris, 25 employés) |
+| Drivably | Février 2022 | -- | Widget d'estimation de reprise consommateur et services managés |
+| Drive Inc. | Août 2024 | -- | Marketplace automobile basée à Dublin, Irlande (~40 employés). Opère TradeBid (enchères digitales) et Nevo (plateforme VE) |
 
 ## Produits
 
@@ -100,10 +105,11 @@ ACV Auctions est une entreprise technologique américaine cotée au Nasdaq (ACVA
 - **KAR Global / OPENLANE** : Plateforme d'enchères digitales (ex-Backlot Cars)
 - **ServNet Auction Group** : Réseau d'enchères physiques indépendantes
 - **America's Auto Auction** : Chaîne régionale d'enchères physiques
+- **CarOffer (CarGurus)** : Plateforme d'offres digitales instantanées pour le wholesale
 
 **Contexte marché** : Le marché wholesale automobile américain représente ~230 milliards USD avec 22+ millions de ventes annuelles. ACV facture ~360 $/véhicule, soit environ la moitié des tarifs de Manheim ou KAR.
 
-**Action antitrust** : En 2022, ACV a déposé une plainte antitrust contre Manheim, ADESA, ServNet, et la NAAA, alléguant un blocage d'accès à la plateforme AutoIMS et une exclusion discriminatoire de la NAAA pour absence d'enchères physiques.
+**Action antitrust** : En 2022, ACV a déposé une plainte antitrust contre Manheim, ADESA, ServNet, et la NAAA, alléguant un blocage d'accès à la plateforme AutoIMS et une exclusion discriminatoire de la NAAA pour absence d'enchères physiques. **Règlement en février 2024** : ACV a obtenu une licence AutoIMS, lui donnant accès à ~1 300 consignataires commerciaux utilisant la plateforme de remarketing -- une victoire stratégique majeure.
 
 ## Présence géographique
 - **Etats-Unis** : 125+ territoires, marchés les plus forts dans le Nord-Est, Sud-Est et corridors du Midwest
