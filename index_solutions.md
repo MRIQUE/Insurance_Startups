@@ -113,6 +113,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Merimen | Merimen eClaims | [Merimen_-_Merimen_eClaims.md](Fiches_Solutions/Merimen_-_Merimen_eClaims.md) |
 | Mila | Mila | [Mila_-_Mila.md](Fiches_Solutions/Mila_-_Mila.md) |
 | Milliman | Nodal | [Milliman_-_Nodal.md](Fiches_Solutions/Milliman_-_Nodal.md) |
+| Monk | Monk AI | [Monk_-_Monk_AI.md](Fiches_Solutions/Monk_-_Monk_AI.md) |
 | Munich Re HealthTech | MEDNEXT | [Munich_Re_HealthTech_-_MEDNEXT.md](Fiches_Solutions/Munich_Re_HealthTech_-_MEDNEXT.md) |
 | NIS | Claims and Assistance | [NIS_-_Claims_and_Assistance.md](Fiches_Solutions/NIS_-_Claims_and_Assistance.md) |
 | Neat | Neat | [Neat_-_Neat.md](Fiches_Solutions/Neat_-_Neat.md) |
