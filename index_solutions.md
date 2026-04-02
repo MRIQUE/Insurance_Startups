@@ -75,6 +75,7 @@ Format : `| Editeur | Solution | Fichier |`
 | FileHandler | FileHandler Enterprise | [FileHandler_-_FileHandler_Enterprise.md](Fiches_Solutions/FileHandler_-_FileHandler_Enterprise.md) |
 | Five Sigma | Five Sigma CMS | [Five_Sigma_-_Five_Sigma_CMS.md](Fiches_Solutions/Five_Sigma_-_Five_Sigma_CMS.md) |
 | Further AI | Further AI | [Further_AI_-_Further_AI.md](Fiches_Solutions/Further_AI_-_Further_AI.md) |
+| Grace | Grace | [Grace_-_Grace.md](Fiches_Solutions/Grace_-_Grace.md) |
 | Granted | Granted | [Granted_-_Granted.md](Fiches_Solutions/Granted_-_Granted.md) |
 | Glanceable | Glanceable | [Glanceable_-_Glanceable.md](Fiches_Solutions/Glanceable_-_Glanceable.md) |
 | Guidewire | Guidewire ClaimCenter | [Guidewire_-_Guidewire_ClaimCenter.md](Fiches_Solutions/Guidewire_-_Guidewire_ClaimCenter.md) |
