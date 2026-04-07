@@ -78,6 +78,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Further AI | Further AI | [Further_AI_-_Further_AI.md](Fiches_Solutions/Further_AI_-_Further_AI.md) |
 | Grace | Grace | [Grace_-_Grace.md](Fiches_Solutions/Grace_-_Grace.md) |
 | Granted | Granted | [Granted_-_Granted.md](Fiches_Solutions/Granted_-_Granted.md) |
+| GT Motive | GT Estimate | [GT_Motive_-_GT_Estimate.md](Fiches_Solutions/GT_Motive_-_GT_Estimate.md) |
 | Glanceable | Glanceable | [Glanceable_-_Glanceable.md](Fiches_Solutions/Glanceable_-_Glanceable.md) |
 | Guidewire | Guidewire ClaimCenter | [Guidewire_-_Guidewire_ClaimCenter.md](Fiches_Solutions/Guidewire_-_Guidewire_ClaimCenter.md) |
 | Guidewire | Guidewire InsuranceNow | [Guidewire_-_Guidewire_InsuranceNow.md](Fiches_Solutions/Guidewire_-_Guidewire_InsuranceNow.md) |
@@ -115,6 +116,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Merimen | Merimen eClaims | [Merimen_-_Merimen_eClaims.md](Fiches_Solutions/Merimen_-_Merimen_eClaims.md) |
 | Mila | Mila | [Mila_-_Mila.md](Fiches_Solutions/Mila_-_Mila.md) |
 | Milliman | Nodal | [Milliman_-_Nodal.md](Fiches_Solutions/Milliman_-_Nodal.md) |
+| Mitchell International | Mitchell Cloud Claims | [Mitchell_International_-_Mitchell_Cloud_Claims.md](Fiches_Solutions/Mitchell_International_-_Mitchell_Cloud_Claims.md) |
 | Monk | Monk AI | [Monk_-_Monk_AI.md](Fiches_Solutions/Monk_-_Monk_AI.md) |
 | Munich Re HealthTech | MEDNEXT | [Munich_Re_HealthTech_-_MEDNEXT.md](Fiches_Solutions/Munich_Re_HealthTech_-_MEDNEXT.md) |
 | NIS | Claims and Assistance | [NIS_-_Claims_and_Assistance.md](Fiches_Solutions/NIS_-_Claims_and_Assistance.md) |
