@@ -4,14 +4,19 @@
 **Editeur** : Fernstone
 **Nom de la solution** : Fernstone
 **Date de mise a jour** : 2026-04-12
-**Fondateurs** : Luke Button (CEO, ex-Head of Growth chez Antimetal, co-fondateur de Contrast - acquis, ex-Traba), James Chen (ex-Traba enterprise, ex-BCG, UChicago), Bryant Le (CTO, ex-ingenieur logiciel chez Google et Sentilink, Vanderbilt University)
+**Fondateurs** : Luke Button (CEO, ex-Head of Growth chez Antimetal, co-fondateur de Contrast - acquis, ex-Traba), James Chen (ex-Traba enterprise, ex-BCG, UChicago, ancien champion de debat classe #1 aux USA), Bryant Le (CTO, ex-ingenieur logiciel chez Google et Sentilink, a acquis et opere une societe de raffling dont il a 2x les profits via la tech)
 **Annee de creation** : 2025
 **Siege** : San Francisco, CA, Etats-Unis
+**Batch YC** : F25
 **Effectifs** : 3
 **Levees de fonds** : Pre-Seed de 1,5M$ (2025), soutenu par Y Combinator (batch F25)
 
 ## Description
-Fernstone est un courtier d'assurance full-stack pour les entreprises, combinant intelligence artificielle et courtiers licencies pour obtenir des assurances commerciales complexes plus rapidement et a de meilleures conditions. La plateforme s'adresse principalement aux entreprises des secteurs de la construction, de la securite privee et de la logistique. Fernstone se positionne comme une alternative technologique aux courtiers traditionnels en automatisant la collecte d'informations, la comparaison de devis et la gestion des polices, tout en maintenant un accompagnement humain personnalise avec un conseiller en risques dedie pour chaque client.
+Fernstone est un courtier d'assurance full-stack pour les entreprises, combinant intelligence artificielle et courtiers licencies pour obtenir des assurances commerciales complexes plus rapidement et a de meilleures conditions. La plateforme s'adresse principalement aux entreprises des secteurs de la construction, de la securite privee et de la logistique.
+
+L'idee est nee de l'experience des fondateurs chez Traba, une startup de staffing pour entrepots (Serie A), ou ils ont constate les delais aberrants du courtage traditionnel : un client a attendu 6 semaines pour obtenir une assurance construction. Fernstone automatise le back-and-forth manuel via un agent IA qui suit les fils de discussion email, relance instantanement les interlocuteurs et trouve des couvertures pour des risques complexes plus rapidement.
+
+Fernstone se positionne comme une alternative technologique aux courtiers traditionnels en automatisant la collecte d'informations, la comparaison de devis et la gestion des polices, tout en maintenant un accompagnement humain personnalise avec un conseiller en risques dedie et des courtiers licencies dans la boucle pour reviser et lier les couvertures. Le capital de 1,5M$ en pre-seed est destine a accelerer le developpement produit, renforcer les capacites IA et elargir l'empreinte operationnelle.
 
 ## Produits et fonctionnalites
 | Fonctionnalite | Description |
