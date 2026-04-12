@@ -7,6 +7,7 @@
 **Fondateurs** : Evan Rankin et Jad Bousselham - Diplomes de Dartmouth College (Math et Computer Science). Jad Bousselham (Guarini '25) a construit le meilleur modele mondial de prediction de rendement du soja a partir d'imagerie satellite lors de ses recherches a Dartmouth.
 **Annee de creation** : 2025
 **Siege** : San Francisco, CA, USA (estime, base sur le profil YC)
+**Batch YC** : W26
 **Effectifs** : 2 (equipe fondatrice)
 **Levees de fonds** : Y Combinator W26 (montant standard YC). Laureats d'une bourse Magnuson Center for Entrepreneurship de Dartmouth (>$26K).
 

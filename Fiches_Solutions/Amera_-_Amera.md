@@ -23,17 +23,20 @@ La proposition de valeur repose sur un moteur de normalisation capable de traite
 ## Produits et fonctionnalites
 | Fonctionnalite | Description |
 |----------------|-------------|
+| Unconventional Claims Clearinghouse | Clearinghouse de sinistres non conventionnels : standardisation des donnees de sinistres depuis n'importe quelle source et automatisation du workflow complet |
+| Intelligent Claims Pre-Processing | Pre-traitement intelligent des sinistres : normalisation, validation et enrichissement des donnees avant injection dans les systemes d'adjudication |
+| Automated Stop-Loss Reporting | Generation automatisee des rapports stop-loss pour les plans d'assurance auto-finances, reduisant le travail de plusieurs heures a quelques secondes |
+| Real-Time Visibility & Analytics | Tableau de bord temps reel de suivi et d'analyse des sinistres, de l'intake a la soumission au carrier |
 | Normalisation multi-format | Moteur de conversion des formats EDI, PDF, papier, fax et formats proprietaires en donnees structurees |
 | Schemas de donnees sante | Ensemble complet de schemas pour documents de sante, mappant des centaines de formats personnalises |
-| Validation automatique | Verification automatisee des sinistres a la reception, detection des erreurs et incoherences |
-| Reconciliation | Rapprochement automatique des donnees de sinistres avec les systemes de reference |
-| Reporting stop-loss | Generation automatisee des rapports stop-loss pour les plans d'assurance auto-finances |
-| Integration systemes existants | Donnees structurees directement injectables dans les systemes TPA et payeurs existants |
-| Traitement OCR/IA | Extraction intelligente de donnees depuis des documents non-structures (PDF, scans, fax) |
-| Couche de donnees unifiee | Infrastructure de donnees normalisee rendant l'automatisation possible sur des formats historiquement incompatibles |
+| Adjudication automatisee IA | Traitement automatise des decisions de sinistres via des modeles d'IA |
+| Analytics predictives | Analyse predictive pour anticiper les tendances et anomalies dans le traitement des sinistres |
+| Automatisation service membres | Automatisation des interactions de service pour les membres du plan de sante |
+| Monitoring de conformite | Surveillance continue de la conformite reglementaire dans le traitement des sinistres |
+| Integration sans remplacement | Connexion aux logiciels de sinistres existants, clearinghouses et portails carriers sans rip-and-replace, pour une valeur des le premier jour |
 
 ## Clients
-Amera travaille deja avec des payeurs et administrateurs de plans representant environ 100 000 membres.
+Amera travaille deja avec des payeurs et administrateurs de plans representant environ 100 000 membres. La solution cible les TPAs (Third-Party Administrators), les health plans et les employeurs auto-assures (self-insured employers). L'entreprise genere deja du revenu et travaille avec plusieurs administrateurs de plans.
 
 ## Reputation
 **Note de reputation** : 6/10

@@ -7,6 +7,7 @@
 **Fondateurs** : Robert Moss (CEO) - PhD en informatique de Stanford, specialise en validation de systemes critiques, ancien chercheur au MIT Lincoln Laboratory, contributeur principal du systeme anticollision aerien ACAS X (standard mondial certifie FAA) ; Sydney M. Katz (CTO) - PhD en aeronautique et astronautique de Stanford, co-auteure du manuel "Algorithms for Validation", chargee de cours "Validation of Safety-Critical Systems" a Stanford ; Jon Qian - Stanford GSB Sloan Fellow, 12+ ans de leadership en assurance, responsable de $5Mds+ en M&A chez un des plus grands assureurs Asie-Pacifique
 **Annee de creation** : 2025
 **Siege** : San Francisco, CA, USA
+**Batch YC** : W26
 **Effectifs** : 3 (equipe fondatrice)
 **Levees de fonds** : Seed de $500K (janvier 2026), Y Combinator W26. Statut de Public Benefit Corporation.
 
