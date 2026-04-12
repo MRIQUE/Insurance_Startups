@@ -4,57 +4,60 @@
 **Editeur** : Solva (Solva Technology)
 **Nom de la solution** : Solva
 **Date de mise a jour** : 2026-04-12
-**Fondateurs** : Herman Baverud Olsson (CEO) - ex-Lassie (scaling a $50M+, reconnue par Sifted comme InsurTech la plus rapide d'Europe en 2024), ex-BCG X (transformations IA/ML) ; Linus Malmen (CTO) - co-fondateur de Zaver (neobanque europeenne, >EUR1Md traites annuellement, licence EBA-CRD), reconnu par CNBC ; Sorena Amini (COO) - ex-KeyTo (croissance de $60M a $250M), ex-Citi (focus InsurTech), ex-Talentech/ReachMee
+**Fondateurs** : Herman Baverud Olsson (CEO, ex-Lassie ou il a contribue a scaler l'insurtech a $50M+, ex-BCG X en IA/ML), Linus Malmen (CTO, co-fondateur de Zaver, neobanque europeenne traitant +1Md EUR/an sous licence EBA-CRD), Sorena Amini (COO, ex-Fidelio ou il a contribue a scaler KeyTo de $60M a $250M)
 **Annee de creation** : 2025
-**Siege** : San Francisco, CA, USA (origines suedoises)
-**Effectifs** : 3
-**Levees de fonds** : $500K pre-seed (Y Combinator S25) ; l'une des startups les plus recherchees du YC Demo Day S25
+**Siege** : San Francisco, CA, Etats-Unis (origines suedoises)
+**Batch YC** : S25
+**Levees de fonds** : $500K Pre-Seed (YC, 2025). Soutenu par des investisseurs ayant finance OpenAI, Google, Stripe, Anthropic, Databricks et GitHub, ainsi que des dirigeants d'OpenAI et de grands assureurs.
 
 ## Description
-Solva se presente comme le "Harvey for Insurance" - un partenaire IA pour les sinistres d'assurance. La plateforme automatise les taches repetitives des gestionnaires de sinistres et previent les paiements errones grace a des agents IA verifiables et auto-apprenants, construits pour fonctionner de maniere transparente par-dessus n'importe quel stack de gestion de sinistres existant.
+Solva se positionne comme le "Harvey for insurance" — un partenaire IA pour la gestion des sinistres. La societe automatise les taches repetitives du processus de reclamation et previent les versements errones grace a des agents IA verifiables et auto-apprenants, concus pour fonctionner de maniere transparente par-dessus n'importe quel stack de gestion de sinistres existant.
 
-**Proposition de valeur** : Reduction des erreurs de traitement (estimees a plus de $200Md/an de paiements errones dans le monde) et acceleration du cycle de traitement des sinistres, de la FNOL a la decision.
+Le probleme adresse est considerable : les erreurs de traitement a elles seules causent plus de $200 milliards de versements errones par an dans l'industrie de l'assurance. Si la vente d'assurance a considerablement evolue, le traitement des sinistres est reste largement inchange depuis les debuts d'internet.
 
-**Positionnement marche** : Le marche des sinistres d'assurance represente plus de $6,5 trillions de paiements annuels (6% du PIB mondial). Solva cible les inefficiences du traitement manuel en proposant une couche IA qui s'integre sur les systemes existants. Traction rapide : $245K d'ARR atteint en seulement 10 semaines apres le lancement.
+Solva a ete identifiee par TechCrunch comme l'une des 9 startups les plus recherchees du YC Demo Day S25, se distinguant comme l'une des startups les plus rapides en croissance et les mieux capitalisees du batch. Seulement 10 semaines apres son lancement, Solva avait deja atteint $245K d'ARR (revenu annuel recurrent), un chiffre qui a suscite l'enthousiasme des investisseurs.
+
+L'equipe fondatrice combine une experience significative en insurtech (Lassie, reconnue par Sifted comme l'insurtech a la croissance la plus rapide d'Europe), en fintech (Zaver) et en scale-up d'entreprises traditionnelles. Les trois cofondateurs apportent des competences complementaires en IA/ML, ingenierie financiere et operations.
+
+Solva deploie une IA securisee et verifiable, permettant aux assureurs de verifier chaque decision prise par le systeme, un facteur critique d'adoption dans un secteur fortement reglemente.
 
 ## Produits et fonctionnalites
 | Fonctionnalite | Description |
 |----------------|-------------|
-| Agents IA auto-apprenants | Agents IA verifiables qui automatisent le traitement des sinistres et s'ameliorent avec le temps |
-| Prevention des paiements errones | Detection et blocage des paiements incorrects avant execution |
-| Automatisation FNOL-to-decision | Automatisation de bout en bout du parcours sinistre, de la declaration a la decision |
-| Remplissage automatique des sinistres complexes | L'IA remplit automatiquement les formulaires de sinistres complexes |
-| Integration sur stack existant | Deploiement transparent par-dessus n'importe quel CMS ou systeme de gestion de sinistres existant |
-| Moteur de recommandation IA | Recommandations IA pour les decisions de traitement des sinistres |
-| IA securisee et verifiable | Agents IA dont les decisions sont tracables et verifiables |
+| Auto-triage FNOL | Tri automatique des declarations de sinistres (First Notice of Loss) des leur reception |
+| Extraction de violations de police | Identification automatique des clauses de police violees dans chaque sinistre |
+| Detection d'informations manquantes | Signalement des pieces et informations manquantes avant qu'un gestionnaire n'ouvre le dossier |
+| Prevention des versements errones | Analyse automatisee pour stopper les paiements incorrects ou frauduleux |
+| Agents IA auto-apprenants | Agents qui s'ameliorent continuellement grace a l'apprentissage sur les decisions passees |
+| Integration sur stack existant | Deploiement en overlay sur n'importe quel systeme de gestion de sinistres en place |
+| IA verifiable | Chaque decision IA est tracable et verifiable par les gestionnaires humains |
 
 ## Clients
-References publiques : Non divulguees a ce stade. Solva a atteint $245K d'ARR en 10 semaines, suggerant plusieurs clients en production.
+Clients assureurs (references specifiques non publiees). Traction confirmee avec $245K ARR en 10 semaines post-lancement.
 
 ## Reputation
-**Note de reputation** : 7.5/10
-**Analyse** : Equipe fondatrice exceptionnelle avec un track record prouve dans l'InsurTech (Lassie, BCG X) et la fintech (Zaver). Traction rapide impressionnante ($245K ARR en 10 semaines). L'une des 9 startups les plus recherchees du YC Demo Day S25 (TechCrunch). Positionnement "Harvey for Insurance" clair et ambitieux. Integration non-disruptive (overlay sur systemes existants) facilitant l'adoption. Equipe encore tres reduite mais avec une forte capacite d'execution demontree.
+**Note de reputation** : 8.5/10
+**Analyse** : Reconnaissance exceptionnelle par TechCrunch (top 9 du YC Demo Day S25). Traction commerciale remarquable ($245K ARR en 10 semaines). Equipe fondatrice avec track record prouve (Lassie, Zaver, Fidelio). Backing par des investisseurs de premier plan (profils OpenAI, Anthropic, Stripe). Approche IA verifiable repondant a un besoin critique de confiance dans l'assurance. Marche adressable enorme ($200Md+ en versements errones). Positionnement "Harvey for Insurance" clair et ambitieux.
 
 ## Tags & Categorisation
 ### Domaine & Perimetre
-#multi-lignes #iard #auto #habitation #professionnel
+#assurance-iard #sinistres #multi-branches #paiements
 
 ### Acteurs & Roles
-#assureur #gestionnaire-sinistres #carrier
+#assureur #gestionnaire-sinistres #expert #direction-sinistres
 
 ### Cycle de vie
-#declaration #qualification #instruction #indemnisation #detection-fraude #prevention-erreurs
+#declaration #qualification #instruction #verification #indemnisation #detection-fraude
 
 ### Capacites metier
-#workflow-metier #decision-automatisee #regles-metier #controle-paiements #automatisation-sinistres
+#triage-automatique #extraction-donnees #detection-anomalies #prevention-fuites #workflow-sinistres #regles-metier
 
 ### Technologie & IA
-#ia-generative #llm #nlp #agents-ia #self-learning #decision-automatisee #copilot-metier
-
-### Integration & SI
-#saas #api #cloud #overlay #interoperabilite
+#ia-generative #agents-ia #llm #nlp #apprentissage-continu #ia-verifiable #decision-automatisee
 
 ## Ressources
 **Site officiel** : https://www.solvatechnology.com/
 **Y Combinator** : https://www.ycombinator.com/companies/solva
-**YC Launch** : https://www.ycombinator.com/launches/O7o-solva-harvey-for-insurance
+**Launch YC** : https://www.ycombinator.com/launches/O7o-solva-harvey-for-insurance
+**TechCrunch** : https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/
+**LinkedIn** : https://www.linkedin.com/company/solvatechnology
