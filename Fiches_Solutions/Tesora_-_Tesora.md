@@ -4,55 +4,58 @@
 **Editeur** : Tesora
 **Nom de la solution** : Tesora
 **Date de mise a jour** : 2026-04-12
-**Fondateurs** : Vivek Rao (CEO) - ex-McKinsey, ex-Sycamore Partners (~$14Md AUM), BA/MBA UChicago/Booth ; Federico Reyes Gomez (CTO) - Stanford BS/MS en CS & Philosophie, ex-Google Document AI, ex-Kumo (startup Sequoia-backed, graph neural networks sur donnees relationnelles), a decline une offre de Stripe pour rejoindre Kumo
+**Fondateurs** : Vivek Rao (CEO, BA/MBA UChicago) et Federico Reyes Gomez (CTO, BS/MS Stanford en Computer Science & Philosophy, ex-Google Document AI, ex-Kumo startup Sequoia-backed, expert en graph neural networks)
 **Annee de creation** : 2025
-**Siege** : San Francisco, CA, USA
-**Effectifs** : 4
-**Levees de fonds** : Y Combinator S25 ; montant total non divulgue publiquement
+**Siege** : San Francisco, CA, Etats-Unis
+**Batch YC** : S25
+**Levees de fonds** : Non divulguees publiquement (YC-backed)
 
 ## Description
-Tesora construit un logiciel AI-natif pour les equipes d'underwriting et actuariat dans l'assurance. La societe se deploie directement chez les MGAs et carriers pour connecter les systemes disparates, encoder les workflows experts et eliminer les goulets d'etranglement lies aux tableurs et emails qui freinent la croissance.
+Tesora construit un logiciel IA-natif pour les equipes de souscription et d'actuariat dans l'assurance. La societe se deploie directement chez les MGAs (Managing General Agents) et porteurs d'assurance (carriers) pour connecter des systemes disparates, encoder les workflows experts et eliminer les goulets d'etranglement lies aux tableurs et aux emails qui contraignent la croissance.
 
-**Proposition de valeur** : Liberer les actuaires pour construire un portefeuille plus rentable en automatisant l'ingestion de donnees, la normalisation, le peuplement des modeles de tarification et l'encodage des regles de decision structurees.
+Le positionnement central de Tesora est de liberer les actuaires pour qu'ils puissent construire un portefeuille plus rentable, en automatisant les taches operationnelles a faible valeur ajoutee qui consomment une part disproportionnee de leur temps. La plateforme prend en charge l'ingestion de donnees de soumission, la normalisation des donnees, le peuplement des modeles de tarification et l'encodage structure des regles de decision.
 
-**Positionnement marche** : Tesora cible les MGAs et carriers qui souffrent de processus manuels intensifs en underwriting et actuariat. La societe propose une approche "forward deployment" (deploiement sur site) pour s'integrer profondement dans les workflows existants, plutot qu'une solution SaaS generique.
+Le CTO Federico Reyes Gomez apporte une expertise technique distinctive : forme a Stanford en CS et philosophie, il a travaille chez Google Document AI sur le traitement intelligent de documents avant de rejoindre Kumo, une startup backed par Sequoia ou il a deploye des graph neural networks sur des donnees relationnelles. Il a decline une offre de Stripe pour cofonder Tesora.
+
+L'approche "forward deployment" de Tesora signifie que l'equipe s'integre directement dans les operations des clients pour comprendre et encoder leurs workflows specifiques, plutot que de proposer un SaaS generique. Cette methodologie, inspiree de Palantir, permet une adaptation precise aux processus metier de chaque porteur ou MGA.
+
+Le marche cible est celui de l'assurance commerciale et specialty, ou les actuaires et souscripteurs passent un temps considerable a manipuler des tableurs, normaliser des donnees et alimenter manuellement des modeles de tarification — des taches que Tesora ambitionne d'automatiser entierement.
 
 ## Produits et fonctionnalites
 | Fonctionnalite | Description |
 |----------------|-------------|
-| Ingestion des donnees de soumission | Capture et ingestion automatique des donnees de soumission d'assurance |
-| Normalisation des donnees | Standardisation et nettoyage des donnees issues de sources et formats multiples |
-| Peuplement des modeles de tarification | Alimentation automatique des modeles de pricing actuariels avec les donnees normalisees |
-| Encodage des regles de decision | Structuration et encodage des regles de decision d'underwriting |
-| Connexion de systemes disparates | Integration et connexion des differents systemes utilises par les equipes underwriting/actuariat |
-| Elimination des bottlenecks | Automatisation des workflows manuels bases sur les tableurs et emails |
+| Ingestion de donnees de soumission | Capture et traitement automatique des donnees issues des dossiers de soumission |
+| Normalisation des donnees | Standardisation automatique des donnees provenant de sources et formats heterogenes |
+| Peuplement des modeles de tarification | Alimentation automatique des modeles actuariels de pricing a partir des donnees normalisees |
+| Encodage des regles de decision | Structuration et automatisation des regles de decision metier de souscription |
+| Connexion de systemes disparates | Integration et unification de sources de donnees et systemes fragmentes |
+| Workflows actuariels automatises | Elimination des taches manuelles repetitives dans le cycle actuariel |
 
 ## Clients
-References publiques : Non divulguees. Tesora indique travailler avec des MGAs et carriers via un modele de forward deployment.
+MGAs et porteurs d'assurance (carriers) en assurance commerciale et specialty. References specifiques non publiees (societe en phase early-stage, equipe de 2 personnes).
 
 ## Reputation
-**Note de reputation** : 6/10
-**Analyse** : Profil fondateur complementaire solide (McKinsey/finance + Stanford/Google AI). Positionnement pertinent sur un segment sous-automatise (workflows actuariels). Approche "forward deployment" qui montre une comprehension des contraintes du secteur. Y Combinator S25. Societe tres jeune (4 employes) sans references clients publiques ni metriques de traction divulguees. Le pivot apparent depuis un positionnement "procurement for hard-tech" vers l'insurance pourrait indiquer une recherche de product-market fit en cours.
+**Note de reputation** : 7/10
+**Analyse** : Profil technique du CTO exceptionnel (Stanford, Google Document AI, Kumo/Sequoia, graph neural networks). Approche forward deployment differenciante et adaptee au marche cible. Probleme adresse bien identifie (actuaires submerges par les taches manuelles). Backing YC. Risque : societe tres early-stage (2 personnes), pas de levee publique au-dela de YC, marche concurrentiel (Federato, hyperexponential, Quantee). L'absence de references client publiques est normale pour ce stade de maturite.
 
 ## Tags & Categorisation
 ### Domaine & Perimetre
-#multi-lignes #commercial #specialty
+#assurance-commerciale #specialty #souscription #actuariat
 
 ### Acteurs & Roles
-#assureur #mga #carrier #actuaire #underwriter
+#actuaire #souscripteur #MGA #porteur #carrier
 
 ### Cycle de vie
-#souscription #tarification #evaluation-risque #modelisation-actuarielle
+#souscription #tarification #analyse-risque #modelisation #acceptation
 
 ### Capacites metier
-#ingestion-donnees #normalisation-donnees #modelisation-tarification #regles-metier #workflow-metier #decision-automatisee
+#normalisation-donnees #modeles-tarification #regles-decision #workflow-actuariel #ingestion-donnees #integration-systemes
 
 ### Technologie & IA
-#ia-generative #llm #graph-neural-networks #machine-learning #data-normalization #decision-intelligence
-
-### Integration & SI
-#forward-deployment #api #integration-systemes
+#ia-generative #graph-neural-networks #machine-learning #nlp #extraction-documentaire #automatisation-workflow #forward-deployment
 
 ## Ressources
 **Site officiel** : https://tesora.ai/
 **Y Combinator** : https://www.ycombinator.com/companies/tesora
+**PitchBook** : https://pitchbook.com/profiles/company/969669-73
+**LinkedIn** : https://www.linkedin.com/company/tesora-ai
