@@ -7,6 +7,7 @@
 **Fondateurs** : Sander Schulhoff (CEO) - Chercheur en IA reconnu, auteur du premier guide sur le prompt engineering (LearnPrompting.org, 3 millions d'utilisateurs formes), organisateur de la premiere competition de red-teaming GenAI (HackAPrompt, en collaboration avec OpenAI et Anthropic), co-auteur du Prompt Report (76 pages, avec OpenAI, Microsoft, Google, Princeton, Stanford)
 **Annee de creation** : 2025
 **Siege** : San Francisco, CA, USA
+**Batch YC** : W26
 **Effectifs** : 1 (solo founder au lancement)
 **Levees de fonds** : Y Combinator W26 (montant standard YC : $500K SAFE)
 

@@ -21,14 +21,16 @@ Fernstone se positionne comme une alternative technologique aux courtiers tradit
 ## Produits et fonctionnalites
 | Fonctionnalite | Description |
 |----------------|-------------|
-| Courtage IA | Combinaison d'IA et de courtiers licencies pour accelerer l'obtention de devis d'assurance commerciale |
-| Devis rapides | Delai de reponse inferieur a 48 heures pour la plupart des clients |
+| Agent IA de courtage | Agent IA qui automatise le back-and-forth manuel, suit les fils de discussion email et relance instantanement les interlocuteurs |
+| Courtage avec brokers-in-the-loop | Combinaison d'IA et de courtiers licencies qui revisent et lient les couvertures pour garantir la conformite |
+| Devis rapides | Delai de reponse inferieur a 48 heures pour la plupart des clients, vs. plusieurs semaines en courtage traditionnel |
 | Conseiller en risques dedie | Chaque client beneficie d'un interlocuteur unique qui connait ses operations et evolue avec l'entreprise |
-| Gestion des certificats | Emission et gestion des certificats d'assurance |
-| Gestion des renouvellements | Suivi et traitement automatise des renouvellements de polices |
-| Gestion des sinistres | Accompagnement et suivi des declarations de sinistres |
+| Emission instantanee de COI | Creation et partage instantanes de certificats d'assurance (Certificates of Insurance) |
+| Gestion des polices | Plateforme unique pour suivre les polices, gerer les documents et rester en conformite |
+| Suivi des sinistres | Accompagnement et suivi des declarations et de la gestion des sinistres |
+| Gestion des renouvellements | Suivi et traitement automatise des renouvellements de polices avec alertes |
 | Couverture multi-secteurs | Assurance specialisee pour la construction, la securite privee (armee/non-armee, patrouille mobile, protection rapprochee, securite evenementielle), la logistique |
-| Portail client | Plateforme en ligne (app.fernstone.com) pour la gestion des polices et documents |
+| Portail client | Plateforme en ligne (app.fernstone.com) pour la gestion centralisee des polices et documents |
 
 ## Clients
 Fernstone gere les risques de plus de 100 entreprises, principalement dans les secteurs de la construction, de la securite privee et de la logistique.
