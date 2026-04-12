@@ -4,10 +4,11 @@
 **Editeur** : Rovi Health
 **Nom de la solution** : Rovi Health
 **Date de mise a jour** : 2026-04-12
-**Fondateurs** : Santosh Vallabhaneni (CEO, ex-Cedar affordability products, ex-responsable equipe GTM & Customer Success de 30 personnes chez AngelList, courtier d'assurance sante licencie) et Tarun Vallabhaneni (CTO, M.S. Computer Science / IA - UChicago, B.S. Biology - Cornell)
+**Fondateurs** : Santosh Vallabhaneni (CEO, ex-GM Cedar patient affordability products avec des millions en ARR vendus aux plus grands systemes de sante US, early employee chez AngelList ou il a dirige les equipes GTM et Customer Success, courtier d'assurance sante licencie) et Tarun Vallabhaneni (CTO, ex-chercheur en modeles fondamentaux d'IA pour la prediction d'evenements meteo extremes, M.S. Computer Science specialisation IA et HPC - UChicago, B.S. Biology - Cornell)
 **Annee de creation** : 2025
-**Siege** : San Francisco, CA, Etats-Unis
-**Effectifs** : Non disponible (equipe fondatrice de 2 personnes identifiee, recrutement en cours d'un Founding Engineer)
+**Siege** : Philadelphia, PA, Etats-Unis
+**Batch YC** : F25
+**Effectifs** : 3 (recrutement en cours d'un Founding Engineer AI/Full Stack)
 **Levees de fonds** : Seed de 500K$ (novembre 2025), investisseurs : Y Combinator (batch F25), Pioneer Fund
 
 ## Description
