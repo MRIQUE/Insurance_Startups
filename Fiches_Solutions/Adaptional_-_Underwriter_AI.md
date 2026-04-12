@@ -4,56 +4,58 @@
 **Editeur** : Adaptional
 **Nom de la solution** : Underwriter AI
 **Date de mise a jour** : 2026-04-12
-**Fondateurs** : Suril Kantaria (CEO) - ex-xAI, ex-Primer, co-fondateur de Savvy (W20, acquis par TakeCommand en 2022), Phi Beta Kappa en Economie & Mathematiques a Dartmouth ; Kevin Cox (CTO) - ex-Engineering Director chez Clipboard Health (scaling de $30M a $150M+ de revenus), CTO de Savvy, Computer Science a Princeton
+**Fondateurs** : Suril Kantaria (CEO, ex-cofounder & CEO de Savvy W20, early team xAI et Primer) et Kevin Cox (CTO, ex-Engineering Director chez Clipboard Health, ex-CTO de Savvy)
 **Annee de creation** : 2024
-**Siege** : San Francisco, CA, USA
-**Effectifs** : Non disponible (startup early-stage)
-**Levees de fonds** : $10M Seed (juin 2025) ; Y Combinator S25
+**Siege** : San Francisco, CA, Etats-Unis
+**Batch YC** : S25
+**Levees de fonds** : $10M Seed (juin 2025)
 
 ## Description
-Adaptional se positionne comme le premier "systeme d'intelligence" pour l'assurance. Contrairement aux logiciels traditionnels qui structurent le travail ou aux BPO qui externalisent le travail, l'IA d'Adaptional execute directement les taches d'assurance. La societe fournit une IA sur mesure pour le claims et l'underwriting qui lit, extrait et analyse les donnees, permettant aux equipes de se concentrer sur les decisions plutot que sur la manipulation de donnees.
+Adaptional se positionne comme le premier systeme d'intelligence pour l'assurance. Contrairement aux systemes legacy qui organisent le travail ou aux BPO qui l'externalisent, l'IA d'Adaptional execute le travail d'assurance directement. La societe combine une expertise approfondie en sinistres et souscription avec une IA de pointe, operee depuis San Francisco par des ingenieurs IA et des fondateurs recidivistes de l'insurtech.
 
-**Proposition de valeur** : Autopilote pour les underwriters - l'IA pre-traite chaque soumission, extrait les donnees, les valide via des sources publiques et resume le risque selon les guidelines de souscription.
+Le produit phare, Underwriter AI, est un copilote IA pour les souscripteurs d'assurance commerciale. Il pre-traite chaque soumission en extrayant automatiquement les donnees des dossiers de soumission, en validant chaque point de donnees a l'aide de sources publiques, et en synthetisant le risque en fonction des directives de souscription propres a chaque porteur.
 
-**Positionnement marche** : L'equipe travaille avec certains des plus grands carriers americains. Adaptional cible principalement les MGAs et carriers cherchant a automatiser les workflows de souscription grace a des modeles de raisonnement, des donnees structurees et une intelligence decisionnelle en temps reel.
+Adaptional est fondee par les createurs de Savvy, un courtage d'assurance sante digitale soutenu par YC (W20) et acquis par Take Command en 2022. Kevin Cox a precedemment contribue a multiplier par 10 le chiffre d'affaires de Clipboard Health, atteignant plus de $150M de revenus. Suril Kantaria a fait partie des premieres equipes de xAI (Elon Musk) et de Primer, un leader en NLP.
+
+La societe travaille deja avec certains des plus grands porteurs d'assurance aux Etats-Unis et se positionne sur le marche de la souscription commerciale, un segment ou les processus manuels et les delais de traitement constituent des freins majeurs a la croissance.
+
+Les recentes avancees en modeles de raisonnement IA constituent selon le CEO un facteur d'egalisation des chances ("leveling the playing field") permettant a des startups comme Adaptional de rivaliser avec les acteurs etablis du secteur.
 
 ## Produits et fonctionnalites
 | Fonctionnalite | Description |
 |----------------|-------------|
-| Extraction de donnees | L'IA extrait automatiquement les donnees des fichiers de soumission (documents, formulaires, emails) |
-| Validation de donnees | Chaque point de donnees est valide en utilisant des sources publiques externes |
-| Resume de risque | Generation automatique d'un resume de risque base sur les guidelines de souscription du carrier |
-| Pre-traitement des soumissions | Chaque soumission est pre-traitee avant d'atteindre l'underwriter |
-| Autopilote underwriting | Plateforme de decision intelligente combinant modeles de raisonnement et donnees structurees (lance decembre 2025) |
-| IA custom claims & underwriting | Modules IA personnalisables pour les workflows claims et underwriting |
+| Extraction automatique de donnees | Lecture et extraction des donnees depuis les dossiers de soumission (documents, emails, formulaires) |
+| Validation par sources publiques | Verification de chaque point de donnees extrait via des sources de donnees publiques et exterieures |
+| Synthese de risque | Resume automatique du risque base sur les directives de souscription propres au porteur |
+| Pre-traitement des soumissions | Traitement integral de chaque soumission avant intervention humaine de l'underwriter |
+| IA pour claims et underwriting | Capacite a lire, extraire et analyser les documents sinistres et souscription |
+| Integration sur systemes existants | Deploiement compatible avec les stacks technologiques existantes des porteurs |
 
 ## Clients
-References publiques : Adaptional indique travailler avec "certains des plus grands carriers du pays" (USA). Noms specifiques non divulgues publiquement.
+Adaptional travaille avec "certains des plus grands porteurs d'assurance aux Etats-Unis" (references non publiquement nommees a ce stade).
 
 ## Reputation
-**Note de reputation** : 7/10
-**Analyse** : Fondateurs credibles avec un track record insurtech (Savvy, YC W20, acquisition reussie). Seed round de $10M solide pour une startup early-stage, validant l'interet des investisseurs. Equipe technique forte (ex-xAI, Clipboard Health). Positionnement sur un segment en forte croissance (AI underwriting). Reconnaissance Y Combinator S25. Encore en phase de construction de references clients publiques.
+**Note de reputation** : 8/10
+**Analyse** : Forte credibilite fondateur (2x YC alumni, exit avec Savvy, experience xAI/Primer/Clipboard Health). Seed round de $10M significatif pour une startup early-stage. Positionnement "systeme d'intelligence" differenciant par rapport aux outils de workflow classiques. Presence confirmee a ITC Vegas 2024. Marche de la souscription IA en forte croissance. Equipe technique solide avec experience en NLP et IA generative.
 
 ## Tags & Categorisation
 ### Domaine & Perimetre
-#multi-lignes #commercial #professionnel
+#assurance-commerciale #souscription #lignes-specialisees
 
 ### Acteurs & Roles
-#assureur #mga #carrier #underwriter
+#assureur #souscripteur #porteur #MGA
 
 ### Cycle de vie
-#souscription #tarification #evaluation-risque #analyse-soumission
+#souscription #analyse-risque #tarification #acceptation
 
 ### Capacites metier
-#extraction-donnees #validation-donnees #resume-risque #decision-automatisee #regles-metier #workflow-metier
+#extraction-donnees #validation-donnees #synthese-risque #pre-traitement-soumissions #regles-metier
 
 ### Technologie & IA
-#ia-generative #llm #nlp #ocr #reasoning-models #decision-intelligence #copilot-metier
-
-### Integration & SI
-#saas #api #cloud
+#ia-generative #llm #nlp #copilot-metier #raisonnement-ia #extraction-documentaire #validation-automatisee
 
 ## Ressources
 **Site officiel** : https://www.adaptional.com/
-**Site produit** : https://www.adaptional.ai/agents
 **Y Combinator** : https://www.ycombinator.com/companies/adaptional
+**LinkedIn** : https://www.linkedin.com/company/adaptional
+**Crunchbase** : https://www.crunchbase.com/organization/adaptional
