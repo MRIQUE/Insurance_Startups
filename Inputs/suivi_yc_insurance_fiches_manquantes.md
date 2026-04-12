@@ -1,9 +1,9 @@
 # Fiches Solutions YC Insurance - Societes a regulariser
 
 **Source** : https://www.kinro.ai/yc-insurance (repertoire des startups Y Combinator dans l'assurance)
-**Reference** : https://www.ycombinator.com/companies/industry/insurance (52 startups YC Insurance)
+**Reference** : https://www.ycombinator.com/companies/industry/insurance
 **Date d'analyse** : 2026-04-12
-**Methode** : Croisement du repertoire YC Insurance avec les fiches existantes dans `Fiches_Solutions/`
+**Methode** : Croisement de la page Kinro YC Insurance avec les fiches existantes dans `Fiches_Solutions/`
 
 ---
 
@@ -11,9 +11,11 @@
 
 | Categorie | Nombre |
 |-----------|--------|
-| Startups YC Insurance identifiees | 53 |
-| Fiches existantes dans le repertoire | 6 |
-| **Fiches manquantes a creer** | **47** |
+| Startups YC Insurance listees (S23-S26) | 47 |
+| Startups YC Insurance anciennes mentionnees (pre-S23) | ~6 |
+| **Total startups identifiees** | **~53** |
+| Fiches deja existantes | 3 |
+| **Fiches manquantes a creer** | **~44 (batches S23-S26) + ~6 (pre-S23)** |
 
 ---
 
@@ -21,127 +23,200 @@
 
 | # | Societe | Batch YC | Fiche existante |
 |---|---------|----------|-----------------|
-| 1 | AI Insurance | - | [AI_Insurance_-_AI_Insurance.md](../Fiches_Solutions/AI_Insurance_-_AI_Insurance.md) |
+| 1 | Kinro | S26 | [Kinro_-_Kinro.ai.md](../Fiches_Solutions/Kinro_-_Kinro.ai.md) |
 | 2 | Casey | F25 | [Casey_-_Casey.md](../Fiches_Solutions/Casey_-_Casey.md) |
-| 3 | FurtherAI | - | [Further_AI_-_Further_AI.md](../Fiches_Solutions/Further_AI_-_Further_AI.md) |
-| 4 | Kinro | S26 | [Kinro_-_Kinro.ai.md](../Fiches_Solutions/Kinro_-_Kinro.ai.md) |
-| 5 | Pibit.ai | - | [pibit_ai_-_pibit_ai.md](../Fiches_Solutions/pibit_ai_-_pibit_ai.md) |
-| 6 | Pigeon | W23 | [Pigeon_-_Pigeon_Subjectivities.md](../Fiches_Solutions/Pigeon_-_Pigeon_Subjectivities.md) |
+| 3 | FurtherAI | W24 | [Further_AI_-_Further_AI.md](../Fiches_Solutions/Further_AI_-_Further_AI.md) |
+
+> **Note** : Les fiches AI Insurance, Pibit.ai et Pigeon existent aussi dans le repertoire mais ne figurent pas sur la page Kinro YC Insurance.
 
 ---
 
-## Fiches manquantes a creer (47 societes)
+## Fiches manquantes a creer — par batch YC
 
-### 1. Courtage IA et distribution (AI-Native Brokerages)
+### Spring 2026 (S26)
+
+*Aucune fiche manquante (Kinro deja documentee)*
+
+### Winter 2026 (W26) — 4 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 1 | InventoryQuant | Automate the inventory process in insurance | HAUTE |
+| 2 | Valgo | Insurance risk layer for physical AI | HAUTE |
+| 3 | Verdex | AI Verification for Insurance | HAUTE |
+| 4 | Panta | AI Native Commercial Insurance Brokerage | HAUTE |
+
+### Fall 2025 (F25) — 2 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 5 | Rovi Health | AI healthcare concierge for employees | MOYENNE |
+| 6 | Fernstone | Full-stack insurance brokerage for businesses | HAUTE |
+| 7 | Amera | Automating claims processing workflows for health insurance payers | HAUTE |
+
+### Summer 2025 (S25) — 5 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 8 | Adaptional | AI underwriting for insurance | HAUTE |
+| 9 | Iron Grid | AI Insurance for hardware | MOYENNE |
+| 10 | Solva | Automates insurance claims and stops incorrect payouts | HAUTE |
+| 11 | Avelis Health | Audit medical claims for self-insured employers and health plans | MOYENNE |
+| 12 | Tesora | AI-Native Underwriting and Actuarial Workflows | HAUTE |
+
+### Spring 2025 (S25) — 3 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 13 | Acolite | AI Teammates for Insurance Agencies | HAUTE |
+| 14 | Aegis | AI Agents to win denied health insurance claims | HAUTE |
+| 15 | Avallon AI | AI agents for insurance claims operations | HAUTE |
+
+### Winter 2025 (W25) — 4 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 16 | careCycle | Voice AI teams for medicare agencies | MOYENNE |
+| 17 | Vantel | AI Platform for Commercial Insurance Brokerages | HAUTE |
+| 18 | Harper | AI-native commercial insurance brokerage (47M$ leves fev. 2026) | HAUTE |
+| 19 | Toothy AI | AI for insurance verification & billing at dental clinics | BASSE |
+
+### Fall 2024 (F24) — 2 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 20 | RiskCube | AI-native commercial insurance broker for startups | HAUTE |
+| 21 | Ember | AI RCM. A/R Analysis in 3 days or less. Reduce claim denials by 55% | MOYENNE |
+
+### Summer 2024 (S24) — 7 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 22 | Corgi Insurance | Building an AI financial infrastructure company (108M$ leves) | HAUTE |
+| 23 | Silurian | Foundation models to simulate Earth, starting with weather | BASSE |
+| 24 | Understood Care | Healthcare personal assistants for Medicare patients | BASSE |
+| 25 | RiskAngle | AI medical summaries in minutes | MOYENNE |
+| 26 | Benchify | Executable healthcare contracts | BASSE |
+| 27 | ClaimSorted | Making it easy for insurance companies to process claims | HAUTE |
+| 28 | Brighterway | Streamlining the medical record review process in workers comp | MOYENNE |
+
+### Winter 2024 (W24) — 7 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 29 | Blume Benefits | The AI copilot for health insurance brokers | MOYENNE |
+| 30 | InQuery | Intelligent Medical Record Reviews | MOYENNE |
+| 31 | Basepilot | AI agents for insurance claims | HAUTE |
+| 32 | SuretyNow | The Modern Surety Bond Platform | MOYENNE |
+| 33 | The New Money Company | Invoicing that pays you even if your buyer doesn't | BASSE |
+| 34 | Healia | Modern health insurance for dual income families | BASSE |
+| 35 | (Societe non identifiee) | Supercharging Insurance Brokers & Advisors | A IDENTIFIER |
+
+### Summer 2023 (S23) — 9 fiches manquantes
+
+| # | Societe | Description | Priorite |
+|---|---------|-------------|----------|
+| 36 | Eden Care | Claims infrastructure for African health insurance | MOYENNE |
+| 37 | Remy | Making it simpler for medical clinics to work with insurance | MOYENNE |
+| 38 | Strada | AI agents that run insurance operations | HAUTE |
+| 39 | Quill Bills | AI-Powered Medical Billing | BASSE |
+| 40 | CareOasis | Get Paid for Family Caregiving | BASSE |
+| 41 | Catamaran | The AI-powered risk decision platform | HAUTE |
+| 42 | Cair Health | AI Agents for Healthcare RCM | MOYENNE |
+| 43 | Sohar Health | AI-powered insurance verification to boost patient conversion | MOYENNE |
+| 44 | Clearest Health | (description partielle sur la page Kinro) | A COMPLETER |
+
+### Pre-S23 (entreprises anciennes mentionnees sur la page) — ~6 fiches manquantes
 
 | # | Societe | Batch YC | Description | Priorite |
 |---|---------|----------|-------------|----------|
-| 1 | Newfront | W18 | Courtage d'assurance moderne ; travaille avec 20% des licornes US et 150+ entreprises cotees | HAUTE |
-| 2 | Harper | W25 | Courtage commercial AI-native ; levee de 47M$ (Seed + Series A, fev. 2026) | HAUTE |
-| 3 | Panta | - | Courtage commercial autonome par agents IA ; combine workflows IA + courtiers licencies | HAUTE |
-| 4 | RiskCube | - | Courtier IA specialise risques emergents (AI/SaaS, Space, Fintech, Web3) ; comparaison multi-porteurs | MOYENNE |
-| 5 | Fernstone | F25 | Courtage full-stack IA pour entreprises (construction, securite, logistique) ; 100+ clients | MOYENNE |
-
-### 2. Porteurs et souscription (Insurance Carriers & Underwriting)
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 6 | Vouch | S19 | Assurance entreprise pour startups et scale-ups ; 185M$ de financement | HAUTE |
-| 7 | Corgi | - | Porteur d'assurance full-stack IA pour startups ; 108M$ de financement | HAUTE |
-| 8 | Shepherd | - | MGU tech pour assurance P&C commerciale (secteurs a hauts risques) | MOYENNE |
-| 9 | Goodcover | W20 | Assurance locataire cooperative digitale ; 50% moins cher que les assureurs traditionnels | MOYENNE |
-| 10 | Cover | W16 | Plateforme d'assurance mobile-first ; assurer tout avec une photo | MOYENNE |
-| 11 | Iron Grid | S25 | Assurance IA pour le materiel / hardware ; specialise batteries grid-scale | BASSE |
-| 12 | Plover Parametrics | - | Assurance changement climatique ; plateforme pour concevoir de nouveaux produits parametriques | BASSE |
-
-### 3. Operations et automatisation IA (AI Insurance Operations)
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 13 | Strada | - | Agents IA pour operations d'assurance ; agents vocaux/texte pour gestion de polices et sinistres | HAUTE |
-| 14 | Mulligan | - | Automatisation end-to-end pour courtiers commerciaux (devis, propositions, commissions) | HAUTE |
-| 15 | Vantel | - | Plateforme/OS IA pour courtages commerciaux ; comparaison de polices de 100+ pages | HAUTE |
-| 16 | Acolite | - | Coequipiers IA pour agences d'assurance ; gestion COI, soumissions, cartographie SOV | MOYENNE |
-| 17 | Adaptional | - | Souscription IA ; premier systeme d'intelligence pour l'assurance | MOYENNE |
-| 18 | Summed AI | F24 | Copilote IA pour agents d'assurance | MOYENNE |
-
-### 4. Gestion des sinistres (Claims Processing)
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 19 | ClaimSorted | S24 | TPA AI-first pour sinistres ; automatise verification fraude, conformite, decision | HAUTE |
-| 20 | Avallon AI | - | Agents IA pour operations sinistres ; appels, documents, saisie de donnees | HAUTE |
-| 21 | Stream | - | Workbench IA pour sinistres ; transforme les PDF en workflows automatises | HAUTE |
-| 22 | Amera | - | Automatisation du traitement des sinistres pour payeurs d'assurance sante | MOYENNE |
-| 23 | Verdex | - | Ajusteur d'assurance IA utilisant l'imagerie satellite ; 11% des terres agricoles US | MOYENNE |
-
-### 5. Tarification et risque (Insurance Pricing & Risk)
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 24 | Soteris | - | Systeme de tarification ML pour l'assurance, debut en auto individuel | HAUTE |
-| 25 | KorrAI | - | Workspace IA pour etudes de risques a distance ; monitoring satellite d'infrastructures | MOYENNE |
-| 26 | Ledger Investing | - | Marketplace de securitisation d'assurance | BASSE |
-
-### 6. Assurance pour l'IA et les agents autonomes
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 27 | Klaimee | - | Assurance pour le monde agentique ; certifie et assure les agents IA autonomes | HAUTE |
-| 28 | Mount | - | Assureur pour l'economie des agents ; plateforme d'evaluation des risques IA | HAUTE |
-
-### 7. Assurance sante et avantages sociaux (Health Insurance & Benefits)
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 29 | Angle Health | - | Assurance sante pour startups | MOYENNE |
-| 30 | SafetyWing | W18 | Assurance sante pour equipes distantes ; filet de securite sociale mondial | MOYENNE |
-| 31 | SimplyInsured | W13 | Assurance sante pour PME 100% en ligne | MOYENNE |
-| 32 | Healia | W24 | Assurance sante moderne pour familles a double revenu | BASSE |
-| 33 | Savvy | - | Stipends flexibles pour assurance sante des employes (acquis par Take Command) | BASSE |
-| 34 | Gleam | - | Plans de sante auto-finances pour employeurs (50-500 employes) | BASSE |
-| 35 | Blume Benefits | - | Copilote IA pour courtiers en assurance sante | BASSE |
-| 36 | Pasito | - | Agents IA pour assurance et avantages sociaux ; guidance personnalisee | MOYENNE |
-| 37 | TrueClaim | W24 | TPA sante IA ; traitement des paiements pour assurance auto-financee | BASSE |
-
-### 8. Assurance embarquee et parametrique (Embedded & Parametric Insurance)
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 38 | Tint | - | Plateforme d'assurance embarquee ; APIs pour plateformes tech | HAUTE |
-| 39 | Axle | - | API universelle / clearinghouse IA pour donnees d'assurance (Plaid de l'assurance) | HAUTE |
-| 40 | OrbitCover / MedPiper | S20 | Infrastructure de reglement parametrique ; auto-settlement de produits de protection | BASSE |
-
-### 9. Assurance specialisee et regionale
-
-| # | Societe | Batch YC | Description | Priorite |
-|---|---------|----------|-------------|----------|
-| 41 | Jerry | - | Super app automobile ; comparaison IA d'assurance auto, 3M+ clients | HAUTE |
-| 42 | Bimaplan | - | Assurance abordable pour le prochain milliard d'Indiens | BASSE |
-| 43 | Clupp | - | Assurance pour marches sous-desservis (velo/trottinette en LatAm, startups US) | BASSE |
-| 44 | Homeflow | W23 | Simplification de l'assurance pour grands investisseurs immobiliers | BASSE |
-| 45 | Surematics | - | Aide les courtiers commerciaux a structurer des deals complexes en ligne | MOYENNE |
-| 46 | WorldCover | - | Assurance recoltes et plateforme d'assurance pour pays en developpement | BASSE |
-| 47 | Curacel | - | Infrastructure IA pour assurance et sante en Afrique | BASSE |
+| 45 | Newfront | W18 | Modern insurance brokerage ; 20% des licornes US, 150+ entreprises cotees | HAUTE |
+| 46 | Vouch | S19 | Business insurance for startups ; 185M$ de financement | HAUTE |
+| 47 | Jerry | - | Car ownership super app ; 3M+ clients, comparaison IA assurance auto | HAUTE |
+| 48 | Tint | - | Embedded insurance platform ; APIs pour plateformes tech | HAUTE |
+| 49 | SafetyWing | W18 | Health insurance for remote teams ; filet de securite sociale mondial | MOYENNE |
+| 50 | Gusto | W12 | Plateforme RH/paie/avantages sociaux pour PME (si pertinent assurance) | BASSE |
 
 ---
 
-## Priorites recommandees
+## Recapitulatif par priorite
 
-### HAUTE priorite (15 fiches) - Pertinence directe ClaimsTech / forte traction
-> Newfront, Harper, Panta, Vouch, Corgi, Strada, Mulligan, Vantel, ClaimSorted, Avallon AI, Stream, Soteris, Klaimee, Mount, Tint, Axle, Jerry
+### HAUTE priorite (22 fiches) — Pertinence directe ClaimsTech / IA assurance / forte traction
 
-### MOYENNE priorite (14 fiches) - Pertinence indirecte ou traction moderee
-> RiskCube, Fernstone, Shepherd, Goodcover, Cover, Acolite, Adaptional, Summed AI, Amera, Verdex, KorrAI, Angle Health, SafetyWing, SimplyInsured, Pasito, Surematics
+| # | Societe | Batch | Categorie principale |
+|---|---------|-------|---------------------|
+| 1 | InventoryQuant | W26 | Automatisation inventaire assurance |
+| 2 | Valgo | W26 | Risk layer pour IA physique |
+| 3 | Verdex | W26 | Verification IA pour assurance |
+| 4 | Panta | W26 | Courtage commercial IA |
+| 5 | Fernstone | F25 | Courtage full-stack |
+| 6 | Amera | F25 | Automatisation sinistres sante |
+| 7 | Adaptional | S25 | Souscription IA |
+| 8 | Solva | S25 | Automatisation sinistres / detection erreurs |
+| 9 | Tesora | S25 | Workflows souscription & actuariat IA |
+| 10 | Acolite | S25 | Agents IA pour agences |
+| 11 | Aegis | S25 | Agents IA refus sinistres sante |
+| 12 | Avallon AI | S25 | Agents IA operations sinistres |
+| 13 | Vantel | W25 | Plateforme IA courtage commercial |
+| 14 | Harper | W25 | Courtage commercial IA (47M$) |
+| 15 | RiskCube | F24 | Courtier IA startups |
+| 16 | Corgi Insurance | S24 | Porteur IA full-stack (108M$) |
+| 17 | ClaimSorted | S24 | TPA AI-first sinistres |
+| 18 | Basepilot | W24 | Agents IA sinistres |
+| 19 | Strada | S23 | Agents IA operations assurance |
+| 20 | Catamaran | S23 | Plateforme decision risque IA |
+| 21 | Newfront | W18 | Courtage moderne |
+| 22 | Vouch | S19 | Assurance startups |
 
-### BASSE priorite (18 fiches) - Niche, regional ou sante pure
-> Iron Grid, Plover Parametrics, Ledger Investing, Healia, Savvy, Gleam, Blume Benefits, TrueClaim, OrbitCover/MedPiper, Bimaplan, Clupp, Homeflow, WorldCover, Curacel, Onederful
+### MOYENNE priorite (14 fiches) — Pertinence indirecte ou traction moderee
+
+| # | Societe | Batch | Categorie principale |
+|---|---------|-------|---------------------|
+| 23 | Rovi Health | F25 | Concierge sante IA |
+| 24 | Iron Grid | S25 | Assurance hardware |
+| 25 | Avelis Health | S25 | Audit sinistres medicaux |
+| 26 | careCycle | W25 | IA vocale Medicare |
+| 27 | Ember | F24 | Revenue Cycle Management IA |
+| 28 | RiskAngle | S24 | Resumes medicaux IA |
+| 29 | Brighterway | S24 | Revue dossiers medicaux workers comp |
+| 30 | Blume Benefits | W24 | Copilote IA courtiers sante |
+| 31 | InQuery | W24 | Revue intelligente dossiers medicaux |
+| 32 | SuretyNow | W24 | Plateforme cautions |
+| 33 | Eden Care | S23 | Infra sinistres Afrique |
+| 34 | Remy | S23 | Cliniques + assurance |
+| 35 | Cair Health | S23 | Agents IA RCM sante |
+| 36 | Sohar Health | S23 | Verification assurance IA |
+
+### BASSE priorite (8 fiches) — Niche, hors perimetre direct, ou info incomplete
+
+| # | Societe | Batch | Categorie principale |
+|---|---------|-------|---------------------|
+| 37 | Toothy AI | W25 | Verification assurance dentaire |
+| 38 | Silurian | S24 | Modeles meteo (indirect) |
+| 39 | Understood Care | S24 | Assistants Medicare |
+| 40 | Benchify | S24 | Contrats sante executables |
+| 41 | The New Money Company | W24 | Facturation / paiement |
+| 42 | Healia | W24 | Assurance sante familles |
+| 43 | Quill Bills | S23 | Facturation medicale |
+| 44 | CareOasis | S23 | Aide-soignants familiaux |
+
+### A TRAITER / IDENTIFIER
+
+| # | Societe | Batch | Statut |
+|---|---------|-------|--------|
+| - | (Societe non identifiee) | W24 | Supercharging Insurance Brokers & Advisors — a identifier |
+| - | Clearest Health | S23 | Description partielle — a completer |
+| - | Jerry | pre-S23 | Mentionnee comme ancienne — a documenter |
+| - | Tint | pre-S23 | Mentionnee comme ancienne — a documenter |
+| - | SafetyWing | W18 | Mentionnee comme ancienne — a documenter |
+| - | Gusto | W12 | Plateforme RH — pertinence assurance a evaluer |
 
 ---
 
 ## Notes methodologiques
 
-- La page https://www.kinro.ai/yc-insurance retourne une erreur 403 (acces bloque). L'analyse a ete realisee en reconstituant la liste des startups YC Insurance a partir de multiples sources : repertoire officiel YC (ycombinator.com/companies/industry/insurance), articles TechCrunch, YCDB, et pages individuelles des societes sur le site YC.
-- Le repertoire YC annonce 52 startups insurance ; nous en avons identifie 53, la difference pouvant s'expliquer par des societes a cheval entre categories ou des ajouts/retraits recents.
-- Embroker, Eligible et Evry Health ont ete mentionnes dans certaines sources mais leur statut YC n'a pas pu etre confirme avec certitude ; ils ne sont pas inclus dans cette liste.
-- La societe Onederful (API dentaire) est a la frontiere de la categorie Insurance et n'a pas ete incluse dans le decompte principal.
+- Les donnees proviennent de la page https://www.kinro.ai/yc-insurance (extraction fournie par l'utilisateur le 2026-04-12).
+- La page couvre les batches S23 a S26 en detail, puis mentionne des societes plus anciennes (2022-2009) comme Gusto, SafetyWing, Newfront, Vouch, Jerry, Tint, sans extraction detaillee.
+- Les fiches existantes Casey, FurtherAI et Kinro sont deja a jour avec leur batch YC respectif.
+- Certaines societes de la liste sont davantage sante/RCM (Revenue Cycle Management) que ClaimsTech au sens strict ; elles sont classees en priorite BASSE ou MOYENNE.
+- Une societe du batch W24 n'a pas ete identifiee (description : "Supercharging Insurance Brokers & Advisors").
