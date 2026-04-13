@@ -140,6 +140,8 @@ Format : `| Editeur | Solution | Fichier |`
 | Glanceable | Glanceable | [Glanceable_-_Glanceable.md](Fiches_Solutions/Glanceable_-_Glanceable.md) |
 | Grace | Grace | [Grace_-_Grace.md](Fiches_Solutions/Grace_-_Grace.md) |
 | Granted | Granted | [Granted_-_Granted.md](Fiches_Solutions/Granted_-_Granted.md) |
+| GT Motive | GT Estimate | [GT_Motive_-_GT_Estimate.md](Fiches_Solutions/GT_Motive_-_GT_Estimate.md) |
+| Glanceable | Glanceable | [Glanceable_-_Glanceable.md](Fiches_Solutions/Glanceable_-_Glanceable.md) |
 | Guidewire | Guidewire ClaimCenter | [Guidewire_-_Guidewire_ClaimCenter.md](Fiches_Solutions/Guidewire_-_Guidewire_ClaimCenter.md) |
 | Guidewire | Guidewire InsuranceNow | [Guidewire_-_Guidewire_InsuranceNow.md](Fiches_Solutions/Guidewire_-_Guidewire_InsuranceNow.md) |
 | Guidewire | Guidewire InsuranceSuite | [Guidewire_-_Guidewire_InsuranceSuite.md](Fiches_Solutions/Guidewire_-_Guidewire_InsuranceSuite.md) |
@@ -231,6 +233,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Miralia | Miralia | [Miralia_-_Miralia.md](Fiches_Solutions/Miralia_-_Miralia.md) |
 | Miss Moneypenny | Wallet Studio | [Miss_Moneypenny_-_Wallet_Studio.md](Fiches_Solutions/Miss_Moneypenny_-_Wallet_Studio.md) |
 | momento | momento | [momento_-_momento.md](Fiches_Solutions/momento_-_momento.md) |
+| Mitchell International | Mitchell Cloud Claims | [Mitchell_International_-_Mitchell_Cloud_Claims.md](Fiches_Solutions/Mitchell_International_-_Mitchell_Cloud_Claims.md) |
 | Monk | Monk AI | [Monk_-_Monk_AI.md](Fiches_Solutions/Monk_-_Monk_AI.md) |
 | Mosaics | Mosaic Insurance | [Mosaics_-_Mosaic_Insurance.md](Fiches_Solutions/Mosaics_-_Mosaic_Insurance.md) |
 | MotionsCloud | MotionsCloud | [MotionsCloud_-_MotionsCloud.md](Fiches_Solutions/MotionsCloud_-_MotionsCloud.md) |
