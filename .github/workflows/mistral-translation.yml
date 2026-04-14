@@ -1,0 +1,127 @@
+name: Mistral Translation Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_id:
+        description: 'Batch ID to retrieve (leave empty to submit new batch)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: mistral-translation
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Submit or Monitor Translation Batch
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: |
+          if [ -z "${{ github.event.inputs.batch_id }}" ]; then
+            echo "📤 Submitting new batch for translation..."
+            python mistral_translate.py --api-key "$MISTRAL_API_KEY"
+
+            # Extract batch ID from batch_info_mistral.json
+            BATCH_ID=$(python -c "import json; print(json.load(open('batch_info_mistral.json'))['batch_id'])")
+            echo "Batch ID: $BATCH_ID"
+
+            # Save for workflow artifact
+            echo "$BATCH_ID" > batch_id.txt
+          else
+            echo "🔄 Retrieving results for batch: ${{ github.event.inputs.batch_id }}"
+            python mistral_translate.py --api-key "$MISTRAL_API_KEY" --batch-id "${{ github.event.inputs.batch_id }}"
+          fi
+
+      - name: Check translation results
+        if: always()
+        run: |
+          if [ -d "Insurtech_Solutions_EN" ]; then
+            FILE_COUNT=$(ls -1 Insurtech_Solutions_EN/*.md 2>/dev/null | wc -l)
+            echo "✓ Translated files: $FILE_COUNT"
+
+            # Show sample translation
+            if [ $FILE_COUNT -gt 0 ]; then
+              echo "---"
+              echo "Sample (first 100 chars of first file):"
+              head -c 100 Insurtech_Solutions_EN/*.md | head -1
+              echo ""
+            fi
+          else
+            echo "⏳ Batch still processing or not yet submitted"
+          fi
+
+      - name: Commit translated files
+        if: hashFiles('Insurtech_Solutions_EN/*.md')
+        run: |
+          git add Insurtech_Solutions_EN/
+          git add batch_info_mistral.json 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Add Mistral-translated English solution files
+
+- Translated using Mistral API (mistral-large-latest)
+- Preserved markdown structure and formatting
+- Batch processing for cost efficiency
+- $(ls -1 Insurtech_Solutions_EN/*.md 2>/dev/null | wc -l) files translated"
+            git push origin mistral-translation
+          fi
+
+      - name: Upload batch info
+        if: hashFiles('batch_id.txt')
+        uses: actions/upload-artifact@v3
+        with:
+          name: batch-info
+          path: |
+            batch_id.txt
+            batch_info_mistral.json
+          retention-days: 30
+
+      - name: Create summary
+        if: always()
+        run: |
+          echo "## 📋 Mistral Translation Job Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -d "Insurtech_Solutions_EN" ]; then
+            COUNT=$(ls -1 Insurtech_Solutions_EN/*.md 2>/dev/null | wc -l)
+            echo "✓ **Status**: Translations completed" >> $GITHUB_STEP_SUMMARY
+            echo "✓ **Files**: $COUNT translated" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "⏳ **Status**: Batch submitted, awaiting processing" >> $GITHUB_STEP_SUMMARY
+            if [ -f "batch_id.txt" ]; then
+              echo "**Batch ID**: $(cat batch_id.txt)" >> $GITHUB_STEP_SUMMARY
+            fi
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Next Steps" >> $GITHUB_STEP_SUMMARY
+          echo "1. Monitor batch progress" >> $GITHUB_STEP_SUMMARY
+          echo "2. When ready, retrieve results: \`workflow_dispatch\` with batch ID" >> $GITHUB_STEP_SUMMARY
+          echo "3. Review translated files in \`Insurtech_Solutions_EN/\`" >> $GITHUB_STEP_SUMMARY

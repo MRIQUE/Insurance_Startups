@@ -1,0 +1,14 @@
+
+# Mistral translation
+batch_info_mistral.json
+batch_id.txt
+.env
+.env.local
+*.log
+
+# API Keys - NEVER commit these
+*_API_KEY*
+*_api_key*
+*.key
+*.secret
+
