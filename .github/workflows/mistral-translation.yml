@@ -86,7 +86,7 @@ jobs:
 
       - name: Upload batch info
         if: hashFiles('batch_id.txt')
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: batch-info
           path: |
