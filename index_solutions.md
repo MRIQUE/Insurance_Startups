@@ -132,6 +132,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Five Sigma | Five Sigma CMS | [Five_Sigma_-_Five_Sigma_CMS.md](Fiches_Solutions/Five_Sigma_-_Five_Sigma_CMS.md) |
 | Fluence World | Fluence World | [Fluence_World_-_Fluence_World.md](Fiches_Solutions/Fluence_World_-_Fluence_World.md) |
 | Friday | Friday | [Friday_-_Friday.md](Fiches_Solutions/Friday_-_Friday.md) |
+| FRISS | FRISS | [FRISS_-_FRISS.md](Fiches_Solutions/FRISS_-_FRISS.md) |
 | Further AI | Further AI | [Further_AI_-_Further_AI.md](Fiches_Solutions/Further_AI_-_Further_AI.md) |
 | Gedeon | Gedeon | [Gedeon_-_Gedeon.md](Fiches_Solutions/Gedeon_-_Gedeon.md) |
 | Genasys | Genasys | [Genasys_-_Genasys.md](Fiches_Solutions/Genasys_-_Genasys.md) |
@@ -154,6 +155,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Heron Data | Heron | [Heron_Data_-_Heron.md](Fiches_Solutions/Heron_Data_-_Heron.md) |
 | Hi-Tech Health | Hi-Tech Health - Series 3000 | [Hi-Tech_Health_-_Series_3000.md](Fiches_Solutions/Hi-Tech_Health_-_Series_3000.md) |
 | HIPAAsuite | HIPAA Claim Master | [HIPAAsuite_-_HIPAA_Claim_Master.md](Fiches_Solutions/HIPAAsuite_-_HIPAA_Claim_Master.md) |
+| Hippo Holdings | Hippo Claims AI | [Hippo_Holdings_-_Hippo_Claims_AI.md](Fiches_Solutions/Hippo_Holdings_-_Hippo_Claims_AI.md) |
 | Honeycomb | Honeycomb Insurance | [Honeycomb_-_Honeycomb_Insurance.md](Fiches_Solutions/Honeycomb_-_Honeycomb_Insurance.md) |
 | hyperexponential | hx Renew | [hyperexponential_-_hx_Renew.md](Fiches_Solutions/hyperexponential_-_hx_Renew.md) |
 | Hyperscience | Hypercell | [Hyperscience_-_Hypercell.md](Fiches_Solutions/Hyperscience_-_Hypercell.md) |
@@ -404,5 +406,5 @@ Format : `| Editeur | Solution | Fichier |`
 
 ---
 
-**Total** : 393 solutions documentées
-**Dernière mise à jour** : 2026-04-13
+**Total** : 395 solutions documentées
+**Dernière mise à jour** : 2026-04-16
