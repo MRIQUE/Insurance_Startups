@@ -24,6 +24,7 @@ Format : `| Editeur | Solution | Fichier |`
 | AI Insurance | AI Insurance | [AI_Insurance_-_AI_Insurance.md](Fiches_Solutions/AI_Insurance_-_AI_Insurance.md) |
 | Akur8 | Akur8 | [Akur8_-_Akur8.md](Fiches_Solutions/Akur8_-_Akur8.md) |
 | Alan | Alan | [Alan_-_Alan.md](Fiches_Solutions/Alan_-_Alan.md) |
+| Allianz Trade | Allianz Trade Claims AI | [Allianz_Trade_-_Allianz_Trade_Claims_AI.md](Fiches_Solutions/Allianz_Trade_-_Allianz_Trade_Claims_AI.md) |
 | allo SOLUTIONS | allo | [allo_SOLUTIONS_-_allo.md](Fiches_Solutions/allo_SOLUTIONS_-_allo.md) |
 | Alphatec Software | ClaimControl | [Alphatec_Software_-_ClaimControl.md](Fiches_Solutions/Alphatec_Software_-_ClaimControl.md) |
 | Amenli | Amenli | [Amenli_-_Amenli.md](Fiches_Solutions/Amenli_-_Amenli.md) |
@@ -87,6 +88,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Coverdash | Coverdash | [Coverdash_-_Coverdash.md](Fiches_Solutions/Coverdash_-_Coverdash.md) |
 | CoverForce | CoverForce | [CoverForce_-_CoverForce.md](Fiches_Solutions/CoverForce_-_CoverForce.md) |
 | CoverGo | CoverGo | [CoverGo_-_CoverGo.md](Fiches_Solutions/CoverGo_-_CoverGo.md) |
+| COVU | COVU OS | [COVU_-_COVU_OS.md](Fiches_Solutions/COVU_-_COVU_OS.md) |
 | Cuuva | Cuuva | [Cuuva_-_Cuuva.md](Fiches_Solutions/Cuuva_-_Cuuva.md) |
 | Cytora | Cytora | [Cytora_-_Cytora.md](Fiches_Solutions/Cytora_-_Cytora.md) |
 | dacadoo | dacadoo | [dacadoo_-_dacadoo.md](Fiches_Solutions/dacadoo_-_dacadoo.md) |
@@ -121,6 +123,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Equisoft | Equisoft | [Equisoft_-_Equisoft.md](Fiches_Solutions/Equisoft_-_Equisoft.md) |
 | Eventual | Eventual Climate | [Eventual_-_Eventual_Climate.md](Fiches_Solutions/Eventual_-_Eventual_Climate.md) |
 | Evolution Global | FileTrac Evolve | [Evolution_Global_-_FileTrac_Evolve.md](Fiches_Solutions/Evolution_Global_-_FileTrac_Evolve.md) |
+| Exterro | Exterro | [Exterro_-_Exterro.md](Fiches_Solutions/Exterro_-_Exterro.md) |
 | Faura | Faura | [Faura_-_Faura.md](Fiches_Solutions/Faura_-_Faura.md) |
 | Faye | Faye | [Faye_-_Faye.md](Fiches_Solutions/Faye_-_Faye.md) |
 | Federato | RiskOps | [Federato_-_RiskOps.md](Fiches_Solutions/Federato_-_RiskOps.md) |
@@ -132,6 +135,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Five Sigma | Five Sigma CMS | [Five_Sigma_-_Five_Sigma_CMS.md](Fiches_Solutions/Five_Sigma_-_Five_Sigma_CMS.md) |
 | Fluence World | Fluence World | [Fluence_World_-_Fluence_World.md](Fiches_Solutions/Fluence_World_-_Fluence_World.md) |
 | Friday | Friday | [Friday_-_Friday.md](Fiches_Solutions/Friday_-_Friday.md) |
+| FRISS | FRISS | [FRISS_-_FRISS.md](Fiches_Solutions/FRISS_-_FRISS.md) |
 | Further AI | Further AI | [Further_AI_-_Further_AI.md](Fiches_Solutions/Further_AI_-_Further_AI.md) |
 | Gedeon | Gedeon | [Gedeon_-_Gedeon.md](Fiches_Solutions/Gedeon_-_Gedeon.md) |
 | Genasys | Genasys | [Genasys_-_Genasys.md](Fiches_Solutions/Genasys_-_Genasys.md) |
@@ -154,6 +158,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Heron Data | Heron | [Heron_Data_-_Heron.md](Fiches_Solutions/Heron_Data_-_Heron.md) |
 | Hi-Tech Health | Hi-Tech Health - Series 3000 | [Hi-Tech_Health_-_Series_3000.md](Fiches_Solutions/Hi-Tech_Health_-_Series_3000.md) |
 | HIPAAsuite | HIPAA Claim Master | [HIPAAsuite_-_HIPAA_Claim_Master.md](Fiches_Solutions/HIPAAsuite_-_HIPAA_Claim_Master.md) |
+| Hippo Holdings | Hippo Claims AI | [Hippo_Holdings_-_Hippo_Claims_AI.md](Fiches_Solutions/Hippo_Holdings_-_Hippo_Claims_AI.md) |
 | Honeycomb | Honeycomb Insurance | [Honeycomb_-_Honeycomb_Insurance.md](Fiches_Solutions/Honeycomb_-_Honeycomb_Insurance.md) |
 | hyperexponential | hx Renew | [hyperexponential_-_hx_Renew.md](Fiches_Solutions/hyperexponential_-_hx_Renew.md) |
 | Hyperscience | Hypercell | [Hyperscience_-_Hypercell.md](Fiches_Solutions/Hyperscience_-_Hypercell.md) |
@@ -187,11 +192,13 @@ Format : `| Editeur | Solution | Fichier |`
 | JCAD | JCAD LACHS | [JCAD_-_JCAD_LACHS.md](Fiches_Solutions/JCAD_-_JCAD_LACHS.md) |
 | Jeen | Jeen | [Jeen_-_Jeen.md](Fiches_Solutions/Jeen_-_Jeen.md) |
 | Jerry | Jerry | [Jerry_-_Jerry.md](Fiches_Solutions/Jerry_-_Jerry.md) |
+| JuicyScore | JuicyScore | [JuicyScore_-_JuicyScore.md](Fiches_Solutions/JuicyScore_-_JuicyScore.md) |
 | K2 Innovation | K2 Innovation | [K2_Innovation_-_K2_Innovation.md](Fiches_Solutions/K2_Innovation_-_K2_Innovation.md) |
 | KAYUM | KAYUM | [KAYUM_-_KAYUM.md](Fiches_Solutions/KAYUM_-_KAYUM.md) |
 | KeeeX | KeeeX | [KeeeX_-_KeeeX.md](Fiches_Solutions/KeeeX_-_KeeeX.md) |
 | Kinro | Kinro.ai | [Kinro_-_Kinro.ai.md](Fiches_Solutions/Kinro_-_Kinro.ai.md) |
 | KMR Systems | KMR Claims Processing Manager | [KMR_Systems_-_KMR_Claims_Processing_Manager.md](Fiches_Solutions/KMR_Systems_-_KMR_Claims_Processing_Manager.md) |
+| Koala | Koala | [Koala_-_Koala.md](Fiches_Solutions/Koala_-_Koala.md) |
 | Konta | Konta | [Konta_-_Konta.md](Fiches_Solutions/Konta_-_Konta.md) |
 | Koop | Koop | [Koop_-_Koop.md](Fiches_Solutions/Koop_-_Koop.md) |
 | Kota | Kota | [Kota_-_Kota.md](Fiches_Solutions/Kota_-_Kota.md) |
@@ -213,6 +220,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Luko | Luko | [Luko_-_Luko.md](Fiches_Solutions/Luko_-_Luko.md) |
 | Magicyo | Magicyo IoT | [Magicyo_-_Magicyo_IoT.md](Fiches_Solutions/Magicyo_-_Magicyo_IoT.md) |
 | Majesco | Majesco Claims for P&C | [Majesco_-_Majesco_Claims_for_P&C.md](Fiches_Solutions/Majesco_-_Majesco_Claims_for_P&C.md) |
+| Mantas | Mantas | [Mantas_-_Mantas.md](Fiches_Solutions/Mantas_-_Mantas.md) |
 | ManyPets | ManyPets | [ManyPets_-_ManyPets.md](Fiches_Solutions/ManyPets_-_ManyPets.md) |
 | Marshmallow | Marshmallow | [Marshmallow_-_Marshmallow.md](Fiches_Solutions/Marshmallow_-_Marshmallow.md) |
 | Mastek | Mastek Limited | [Mastek_-_Mastek_Limited.md](Fiches_Solutions/Mastek_-_Mastek_Limited.md) |
@@ -281,6 +289,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Pie | Pie Insurance | [Pie_-_Pie_Insurance.md](Fiches_Solutions/Pie_-_Pie_Insurance.md) |
 | Pigeon | Pigeon Subjectivities | [Pigeon_-_Pigeon_Subjectivities.md](Fiches_Solutions/Pigeon_-_Pigeon_Subjectivities.md) |
 | Pinpoint Predictive | Pinpoint | [Pinpoint_Predictive_-_Pinpoint.md](Fiches_Solutions/Pinpoint_Predictive_-_Pinpoint.md) |
+| Planet Labs | Planet | [Planet_-_Planet.md](Fiches_Solutions/Planet_-_Planet.md) |
 | PlusSimple | PlusSimple | [PlusSimple_-_PlusSimple.md](Fiches_Solutions/PlusSimple_-_PlusSimple.md) |
 | Polimorph PRO | Polimorph | [Polimorph_PRO_-_Polimorph.md](Fiches_Solutions/Polimorph_PRO_-_Polimorph.md) |
 | Qantev | Qantev | [Qantev_-_Qantev.md](Fiches_Solutions/Qantev_-_Qantev.md) |
@@ -315,6 +324,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Salvato | Salvato TLX | [Salvato_-_Salvato_TLX.md](Fiches_Solutions/Salvato_-_Salvato_TLX.md) |
 | SanteVet | SanteVet | [SanteVet_-_SanteVet.md](Fiches_Solutions/SanteVet_-_SanteVet.md) |
 | Sapiens | Sapiens ClaimsPro | [Sapiens_-_Sapiens_ClaimsPro.md](Fiches_Solutions/Sapiens_-_Sapiens_ClaimsPro.md) |
+| Science4Data | Athena AI Studio | [Science4Data_-_Athena_AI_Studio.md](Fiches_Solutions/Science4Data_-_Athena_AI_Studio.md) |
 | Scrub AI | Scrub AI | [Scrub_AI_-_Scrub_AI.md](Fiches_Solutions/Scrub_AI_-_Scrub_AI.md) |
 | Seagull Insurance | Concept | [Seagull_Insurance_-_Concept.md](Fiches_Solutions/Seagull_Insurance_-_Concept.md) |
 | Second Nature AI | Second Nature | [Second_Nature_AI_-_Second_Nature.md](Fiches_Solutions/Second_Nature_AI_-_Second_Nature.md) |
@@ -334,6 +344,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Smarty | Smarty | [Smarty_-_Smarty.md](Fiches_Solutions/Smarty_-_Smarty.md) |
 | Snapsheet | Snapsheet Claims | [Snapsheet_-_Snapsheet_Claims.md](Fiches_Solutions/Snapsheet_-_Snapsheet_Claims.md) |
 | Socotra | Enterprise Core Platform | [Socotra_-_Enterprise_Core_Platform.md](Fiches_Solutions/Socotra_-_Enterprise_Core_Platform.md) |
+| Sofix | BrokerBrief | [Sofix_-_BrokerBrief.md](Fiches_Solutions/Sofix_-_BrokerBrief.md) |
 | Sohar Health | Sohar Health | [Sohar_Health_-_Sohar_Health.md](Fiches_Solutions/Sohar_Health_-_Sohar_Health.md) |
 | Sola | Sola | [Sola_-_Sola.md](Fiches_Solutions/Sola_-_Sola.md) |
 | Solera | Qapter | [Solera_-_Qapter.md](Fiches_Solutions/Solera_-_Qapter.md) |
@@ -396,6 +407,7 @@ Format : `| Editeur | Solution | Fichier |`
 | WeProov | WeProov | [WeProov_-_WeProov.md](Fiches_Solutions/WeProov_-_WeProov.md) |
 | Whitespace Software | ClaimSuite | [Whitespace_Software_-_ClaimSuite.md](Fiches_Solutions/Whitespace_Software_-_ClaimSuite.md) |
 | Wisedocs | Wisedocs | [Wisedocs_-_Wisedocs.md](Fiches_Solutions/Wisedocs_-_Wisedocs.md) |
+| Wizergos | Wizergos | [Wizergos_-_Wizergos.md](Fiches_Solutions/Wizergos_-_Wizergos.md) |
 | Wolters Kluwer ELM Solutions | Passport Claims Defense | [Wolters_Kluwer_ELM_Solutions_-_Passport_Claims_Defense.md](Fiches_Solutions/Wolters_Kluwer_ELM_Solutions_-_Passport_Claims_Defense.md) |
 | Xemplar Insights | Xemplar Insights | [Xemplar_Insights_-_Xemplar_Insights.md](Fiches_Solutions/Xemplar_Insights_-_Xemplar_Insights.md) |
 | Yarris Technologies | Arnie | [Yarris_Technologies_-_Arnie.md](Fiches_Solutions/Yarris_Technologies_-_Arnie.md) |
@@ -404,5 +416,5 @@ Format : `| Editeur | Solution | Fichier |`
 
 ---
 
-**Total** : 393 solutions documentées
-**Dernière mise à jour** : 2026-04-13
+**Total** : 405 solutions documentées
+**Dernière mise à jour** : 2026-04-16
