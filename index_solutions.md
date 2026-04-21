@@ -32,6 +32,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Amplify | Amplify Life | [Amplify_-_Amplify_Life.md](Fiches_Solutions/Amplify_-_Amplify_Life.md) |
 | Anodas Software | Phoenix | [Anodas_Software_-_Phoenix.md](Fiches_Solutions/Anodas_Software_-_Phoenix.md) |
 | APP Technologies | Cloud Claims | [APP_Technologies_-_Cloud_Claims.md](Fiches_Solutions/APP_Technologies_-_Cloud_Claims.md) |
+| Assurup | Assurup | [Assurup_-_Assurup.md](Fiches_Solutions/Assurup_-_Assurup.md) |
 | Attune Technologies | Attune ClaimBook | [Attune_Technologies_-_Attune_ClaimBook.md](Fiches_Solutions/Attune_Technologies_-_Attune_ClaimBook.md) |
 | Aurora | Aurora | [Aurora_-_Aurora.md](Fiches_Solutions/Aurora_-_Aurora.md) |
 | AutoClaims Direct | Clarity | [AutoClaims_Direct_-_Clarity.md](Fiches_Solutions/AutoClaims_Direct_-_Clarity.md) |
@@ -57,6 +58,7 @@ Format : `| Editeur | Solution | Fichier |`
 | careCycle | careCycle | [careCycle_-_careCycle.md](Fiches_Solutions/careCycle_-_careCycle.md) |
 | CareOasis | CareOasis | [CareOasis_-_CareOasis.md](Fiches_Solutions/CareOasis_-_CareOasis.md) |
 | Carpe Data | ClaimsX | [Carpe_Data_-_ClaimsX.md](Fiches_Solutions/Carpe_Data_-_ClaimsX.md) |
+| Cartan Trade | Cartan Trade | [Cartan_Trade_-_Cartan_Trade.md](Fiches_Solutions/Cartan_Trade_-_Cartan_Trade.md) |
 | CaseBlocks | CaseBlocks | [CaseBlocks_-_CaseBlocks.md](Fiches_Solutions/CaseBlocks_-_CaseBlocks.md) |
 | Casey | Casey | [Casey_-_Casey.md](Fiches_Solutions/Casey_-_Casey.md) |
 | CatX | Catamaran | [CatX_-_Catamaran.md](Fiches_Solutions/CatX_-_Catamaran.md) |
@@ -125,6 +127,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Eventual | Eventual Climate | [Eventual_-_Eventual_Climate.md](Fiches_Solutions/Eventual_-_Eventual_Climate.md) |
 | Evolution Global | FileTrac Evolve | [Evolution_Global_-_FileTrac_Evolve.md](Fiches_Solutions/Evolution_Global_-_FileTrac_Evolve.md) |
 | Exterro | Exterro | [Exterro_-_Exterro.md](Fiches_Solutions/Exterro_-_Exterro.md) |
+| FASST | FASST | [FASST_-_FASST.md](Fiches_Solutions/FASST_-_FASST.md) |
 | Faura | Faura | [Faura_-_Faura.md](Fiches_Solutions/Faura_-_Faura.md) |
 | Faye | Faye | [Faye_-_Faye.md](Fiches_Solutions/Faye_-_Faye.md) |
 | Federato | RiskOps | [Federato_-_RiskOps.md](Fiches_Solutions/Federato_-_RiskOps.md) |
@@ -156,6 +159,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Healia | Healia Health | [Healia_-_Healia_Health.md](Fiches_Solutions/Healia_-_Healia_Health.md) |
 | Hedvig | Hedvig | [Hedvig_-_Hedvig.md](Fiches_Solutions/Hedvig_-_Hedvig.md) |
 | Hellas Direct | Hellas Direct | [Hellas_Direct_-_Hellas_Direct.md](Fiches_Solutions/Hellas_Direct_-_Hellas_Direct.md) |
+| HelloSafe | HelloSafe | [HelloSafe_-_HelloSafe.md](Fiches_Solutions/HelloSafe_-_HelloSafe.md) |
 | Herald | Herald | [Herald_-_Herald.md](Fiches_Solutions/Herald_-_Herald.md) |
 | Heron Data | Heron | [Heron_Data_-_Heron.md](Fiches_Solutions/Heron_Data_-_Heron.md) |
 | Hi-Tech Health | Hi-Tech Health - Series 3000 | [Hi-Tech_Health_-_Series_3000.md](Fiches_Solutions/Hi-Tech_Health_-_Series_3000.md) |
@@ -221,6 +225,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Loss Scan | Loss Scan | [Loss_Scan_-_Loss_Scan.md](Fiches_Solutions/Loss_Scan_-_Loss_Scan.md) |
 | Lovys | Lovys | [Lovys_-_Lovys.md](Fiches_Solutions/Lovys_-_Lovys.md) |
 | Luko | Luko | [Luko_-_Luko.md](Fiches_Solutions/Luko_-_Luko.md) |
+| Lya Protect | Lya Protect | [Lya_Protect_-_Lya_Protect.md](Fiches_Solutions/Lya_Protect_-_Lya_Protect.md) |
 | Magicyo | Magicyo IoT | [Magicyo_-_Magicyo_IoT.md](Fiches_Solutions/Magicyo_-_Magicyo_IoT.md) |
 | Majesco | Majesco Claims for P&C | [Majesco_-_Majesco_Claims_for_P&C.md](Fiches_Solutions/Majesco_-_Majesco_Claims_for_P&C.md) |
 | Mantas | Mantas | [Mantas_-_Mantas.md](Fiches_Solutions/Mantas_-_Mantas.md) |
@@ -265,8 +270,10 @@ Format : `| Editeur | Solution | Fichier |`
 | Nolana AI | Nolana | [Nolana_AI_-_Nolana.md](Fiches_Solutions/Nolana_AI_-_Nolana.md) |
 | Novidea | Novidea | [Novidea_-_Novidea.md](Fiches_Solutions/Novidea_-_Novidea.md) |
 | NTA | Elscope Vision | [NTA_-_Elscope_Vision.md](Fiches_Solutions/NTA_-_Elscope_Vision.md) |
+| Oggo Data | Oggo Data | [Oggo_Data_-_Oggo_Data.md](Fiches_Solutions/Oggo_Data_-_Oggo_Data.md) |
 | OneShield | Enterprise Claims | [OneShield_-_Enterprise_Claims.md](Fiches_Solutions/OneShield_-_Enterprise_Claims.md) |
 | ONE | ONE | [ONE_-_ONE.md](Fiches_Solutions/ONE_-_ONE.md) |
+| Onlynnov | Onlynnov | [Onlynnov_-_Onlynnov.md](Fiches_Solutions/Onlynnov_-_Onlynnov.md) |
 | Openclaims | Openclaims | [Openclaims_-_Openclaims.md](Fiches_Solutions/Openclaims_-_Openclaims.md) |
 | Optalitix | Optalitix | [Optalitix_-_Optalitix.md](Fiches_Solutions/Optalitix_-_Optalitix.md) |
 | Origami Risk | Origami Risk | [Origami_Risk_-_Origami_Risk.md](Fiches_Solutions/Origami_Risk_-_Origami_Risk.md) |
@@ -295,6 +302,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Planet Labs | Planet | [Planet_-_Planet.md](Fiches_Solutions/Planet_-_Planet.md) |
 | PlusSimple | PlusSimple | [PlusSimple_-_PlusSimple.md](Fiches_Solutions/PlusSimple_-_PlusSimple.md) |
 | Polimorph PRO | Polimorph | [Polimorph_PRO_-_Polimorph.md](Fiches_Solutions/Polimorph_PRO_-_Polimorph.md) |
+| Promis | Promis | [Promis_-_Promis.md](Fiches_Solutions/Promis_-_Promis.md) |
 | Qantev | Qantev | [Qantev_-_Qantev.md](Fiches_Solutions/Qantev_-_Qantev.md) |
 | Qover | Qover | [Qover_-_Qover.md](Fiches_Solutions/Qover_-_Qover.md) |
 | Quandri | Quandri | [Quandri_-_Quandri.md](Fiches_Solutions/Quandri_-_Quandri.md) |
@@ -341,6 +349,7 @@ Format : `| Editeur | Solution | Fichier |`
 | SideCare | SideCare | [SideCare_-_SideCare.md](Fiches_Solutions/SideCare_-_SideCare.md) |
 | Silurian | GFT | [Silurian_-_GFT.md](Fiches_Solutions/Silurian_-_GFT.md) |
 | Simplifai | Simplifai | [Simplifai_-_Simplifai.md](Fiches_Solutions/Simplifai_-_Simplifai.md) |
+| Simplis | Simplis | [Simplis_-_Simplis.md](Fiches_Solutions/Simplis_-_Simplis.md) |
 | Sixfold | Sixfold | [Sixfold_-_Sixfold.md](Fiches_Solutions/Sixfold_-_Sixfold.md) |
 | Skan AI | Skan Process Intelligence | [Skan_AI_-_Skan_Process_Intelligence.md](Fiches_Solutions/Skan_AI_-_Skan_Process_Intelligence.md) |
 | Skarlett | Skarlett | [Skarlett_-_Skarlett.md](Fiches_Solutions/Skarlett_-_Skarlett.md) |
@@ -364,6 +373,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Stoik | Stoik | [Stoik_-_Stoik.md](Fiches_Solutions/Stoik_-_Stoik.md) |
 | Strada | Strada | [Strada_-_Strada.md](Fiches_Solutions/Strada_-_Strada.md) |
 | Stretch Dollar | Stretch Dollar | [Stretch_Dollar_-_Stretch_Dollar.md](Fiches_Solutions/Stretch_Dollar_-_Stretch_Dollar.md) |
+| StudyAssur | StudyAssur | [StudyAssur_-_StudyAssur.md](Fiches_Solutions/StudyAssur_-_StudyAssur.md) |
 | Sunlight Solutions | Sunlight Enterprise | [Sunlight_Solutions_-_Sunlight_Enterprise.md](Fiches_Solutions/Sunlight_Solutions_-_Sunlight_Enterprise.md) |
 | SuretyNow | SuretyNow | [SuretyNow_-_SuretyNow.md](Fiches_Solutions/SuretyNow_-_SuretyNow.md) |
 | Tchek | Tchek.ai | [Tchek_-_Tchek.ai.md](Fiches_Solutions/Tchek_-_Tchek.ai.md) |
