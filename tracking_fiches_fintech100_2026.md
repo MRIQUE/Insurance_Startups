@@ -98,7 +98,7 @@ Lot 2 (2026-04-21) : 10 fiches Cat. A restantes créées (CARTAN TRADE, FASST, S
 |  56 | KARMEN | 5 | ∅ | C | — | — | Revenue-based financing |
 |  57 | SIMPLIS | -21 | ✓ | A | Simplis_-_Simplis.md | 2026-04-21 | Insurtech RC Pro / décennale indépendants (groupe Odealim) — fiche créée |
 |  58 | MACOMPTA FR | New | ∅ | C | — | — | Compta en ligne |
-|  59 | QUICKSIGN | New | ∅ | C | — | 2026-04-21 | Signature électronique eIDAS / KYC transverse (clients assureurs mais pas spécifique) — borderline |
+|  59 | QUICKSIGN | New | ∅ | C | — | 2026-04-21 | Signature eIDAS / KYC transverse — borderline arbitré : hors périmètre insurtech pur (multi-secteur) |
 |  60 | OBENDY (WIZBII) | -34 | ∅ | C | — | — | Jobs / carrière étudiants |
 |  61 | LYA PROTECT | New | ✓ | A | Lya_Protect_-_Lya_Protect.md | 2026-04-21 | Plateforme digitale (CRM, aide à la vente, IA) pour distributeurs d'assurance — fiche créée |
 |  62 | BRIDGE | -18 | ∅ | C | — | — | Open banking |
@@ -115,7 +115,7 @@ Lot 2 (2026-04-21) : 10 fiches Cat. A restantes créées (CARTAN TRADE, FASST, S
 |  73 | ANAXAGO | -41 | ∅ | C | — | — | Crowdfunding |
 |  74 | CAPTION | 34 | ∅ | C | — | 2026-04-21 | Marketplace investissement non-coté / private equity |
 |  75 | WEEFIN | -21 | ∅ | C | — | — | ESG data |
-|  76 | ZAION | -46 | ∅ | C | — | 2026-04-21 | IA conversationnelle vocale (transverse banque/assurance/santé) — borderline |
+|  76 | ZAION | -46 | ∅ | C | — | 2026-04-21 | IA conversationnelle vocale — borderline arbitré : hors périmètre insurtech pur (transverse banque/assurance/santé) |
 |  77 | ASSURUP | -4 | ✓ | A | Assurup_-_Assurup.md | 2026-04-21 | Courtier digital pro startups / scale-ups / TPE — fiche créée |
 |  78 | SHAREGROOP | -1 | ∅ | C | — | — | Paiement partagé |
 |  79 | ALGOAN | -21 | ∅ | C | — | — | Scoring crédit open banking |
@@ -128,10 +128,10 @@ Lot 2 (2026-04-21) : 10 fiches Cat. A restantes créées (CARTAN TRADE, FASST, S
 |  86 | ARRAGO | New | ∅ | C | — | 2026-04-21 | Prêt viager hypothécaire (Prêt 60®) seniors |
 |  87 | SEQUANTIS LT | -11 | ∅ | C | — | — | Data asset management |
 |  88 | CRYPTIO | -9 | ∅ | C | — | — | Comptabilité crypto |
-|  89 | AFTERDATA | New | ∅ | C | — | 2026-04-21 | Regtech IA/ML AML compliance (clients banque/AM/assurance) — borderline |
+|  89 | AFTERDATA | New | ∅ | C | — | 2026-04-21 | Regtech IA/ML AML compliance — borderline arbitré : hors périmètre insurtech pur (clients banque/AM/assurance) |
 |  90 | SPLIIIT | New | ∅ | C | — | — | Partage abonnements |
 |  91 | VASCO | New | ∅ | C | — | 2026-04-21 | SaaS all-in-one private equity (dealflow, fundraising, reporting) |
-|  92 | WIZIO | New | ∅ | C | — | 2026-04-21 | CRM conformité / agrégation pour CGP / CIF / courtiers (wealthtech) — borderline |
+|  92 | WIZIO | New | ∅ | C | — | 2026-04-21 | CRM conformité / agrégation CGP / CIF / courtiers (wealthtech) — borderline arbitré : hors périmètre insurtech pur |
 |  93 | STUDYASSUR | 20 | ✓ | A | StudyAssur_-_StudyAssur.md | 2026-04-21 | Néo-assurance étudiants (société à mission, ADEFIE) — fiche créée |
 |  94 | SMALLTOX | 31 | ✓ | EXIST | Smalltox_-_Smalltox.md | préexistante | Assurance toxicologie |
 |  95 | WIRK | 25 | ∅ | C | — | — | RPA / BPO |
@@ -171,13 +171,14 @@ Lot 2 (2026-04-21) : 10 fiches Cat. A restantes créées (CARTAN TRADE, FASST, S
   - ✓ ONLYNNOV (97) — `Onlynnov_-_Onlynnov.md`
   - ✓ OGGO DATA (98) — `Oggo_Data_-_Oggo_Data.md`
 
-### Cas borderline (non traités — à rediscuter)
-Tools transverses fortement utilisés par l'assurance, finalement classés C :
-- QUICKSIGN (signature/KYC)
-- ZAION (IA conversationnelle)
-- AFTERDATA (regtech AML)
-- WIZIO (CRM CGP/courtiers)
-Peuvent être requalifiés A si le périmètre est élargi aux briques technologiques utilisées par les assureurs.
+### Cas borderline ✓ ARBITRÉS (2026-04-21 — arbitrage utilisateur : aucune fiche)
+Tools transverses fortement utilisés par l'assurance, confirmés hors périmètre insurtech pur (pas de fiche créée) :
+- ✓ QUICKSIGN (59) — éditeur SaaS de signature électronique eIDAS et parcours KYC/onboarding digital (multi-secteur : banques, assureurs, courtiers)
+- ✓ ZAION (76) — éditeur d'IA conversationnelle vocale (callbots / voicebots) automatisant les centres de contact (banque, assurance, santé)
+- ✓ AFTERDATA (89) — regtech IA/ML spécialisée en conformité AML, KYC et surveillance transactionnelle (banques, asset managers, assureurs)
+- ✓ WIZIO (92) — plateforme CRM & conformité wealthtech pour CGP / CIF / courtiers (agrégation contrats, devoir de conseil, reporting réglementaire)
+
+Décision : classés définitivement en C (fintech multi-secteur, pas insurtech pur) — aucune fiche ne sera créée dans le cadre de ce cycle.
 
 ---
 
@@ -206,6 +207,7 @@ Peuvent être requalifiés A si le périmètre est élargi aux briques technolog
 | 2026-04-21 | Onlynnov (97) | CREATION | Fiche `Onlynnov_-_Onlynnov.md` + entrée index + veille archivée |
 | 2026-04-21 | Oggo Data (98) | CREATION | Fiche `Oggo_Data_-_Oggo_Data.md` + entrée index + veille archivée |
 | 2026-04-21 | — | CLÔTURE | Cycle Fintech 100 France 2026 terminé : 26 fiches insurtech documentées (12 préexistantes + 14 créées), 74 sociétés hors périmètre, 0 reste à créer. |
+| 2026-04-21 | QUICKSIGN, ZAION, AFTERDATA, WIZIO | ARBITRAGE | Cas borderline tranchés par l'utilisateur : maintenus en C, aucune fiche créée (fintech multi-secteur, pas insurtech pur). |
 
 ---
 
