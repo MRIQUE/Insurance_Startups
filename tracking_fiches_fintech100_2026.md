@@ -4,20 +4,23 @@ Source : classement Top 100 Fintech France 2026 (fourni par l'utilisateur, évol
 Objectif : identifier les fiches solution manquantes dans `Fiches_Solutions/` et ne créer de fiche que pour les sociétés en lien avec l'assurance (insurtech).
 
 Créé : 2026-04-21
-Dernière mise à jour : 2026-04-21 (après Lot 0 — scout Cat. B complet)
+Dernière mise à jour : 2026-04-21 (après Lot 1 — 4 fiches-pilotes créées)
 
 ---
 
 ## Synthèse
 
 Après scout web des 21 sociétés Cat. B (2026-04-21) : 4 reclassées en A, 17 reclassées en C.
+Lot 1 (2026-04-21) : 4 fiches-pilotes créées (LEOCARE, SEYNA, DATTAK, GARANTME).
 
 | Statut | Nombre |
 |--------|-------:|
-| ✓ Fiche existante | 12 |
-| ✗ À créer (Cat. A — assurtech confirmé) | 14 |
+| ✓ Fiches existantes | **16** (12 préexistantes + 4 nouvelles) |
+| ✗ À créer (Cat. A restantes) | **10** |
 | ∅ Hors périmètre (Cat. C — non-assurance) | 74 |
 | **TOTAL** | **100** |
+
+**Restent à créer (10)** : CARTAN TRADE (21), FASST (28), LYA PROTECT (61), PROMIS (72), ASSURUP (77), HELLOSAFE (80), STUDYASSUR (93), ONLYNNOV (97), OGGO DATA (98), SIMPLIS (57).
 
 **Légende des statuts** :
 - `✓` — Fiche déjà présente dans `Fiches_Solutions/`
@@ -73,17 +76,17 @@ Après scout web des 21 sociétés Cat. B (2026-04-21) : 4 reclassées en A, 17 
 |  35 | MEMO BANK | -18 | ∅ | C | — | — | Banque PME |
 |  36 | OBAT | -7 | ∅ | C | — | — | Devis / facture BTP |
 |  37 | LORE | New | ∅ | C | — | 2026-04-21 | SaaS gestion financière / immobilière pour foncières |
-|  38 | GARANTME | 29 | ✗ | A | — | — | Garantie locative (caution assurantielle) |
+|  38 | GARANTME | 29 | ✓ | A | GarantMe_-_GarantMe.md | 2026-04-21 | Caution locative digitale (fondateurs Reynaud & Karam) — fiche créée |
 |  39 | SIDECARE | 7 | ✓ | EXIST | SideCare_-_SideCare.md | préexistante | Santé collective |
 |  40 | INDY | -13 | ∅ | C | — | — | Comptabilité indépendants |
-|  41 | DATTAK | 15 | ✗ | A | — | — | Cyber-assurance |
+|  41 | DATTAK | 15 | ✓ | A | Dattak_-_Dattak.md | 2026-04-21 | Cyber-assurance PME/ETI + CERT interne — fiche créée |
 |  42 | YOMONI | 11 | ∅ | C | — | — | Gestion patrimoine |
 |  43 | ENERFIP | 20 | ∅ | C | — | — | Crowdfunding énergie |
 |  44 | SESAMM | -25 | ∅ | C | — | — | NLP analytics finance |
 |  45 | LENDOSPHERE | New | ∅ | C | — | — | Crowdfunding |
 |  46 | PAYLEAD | -18 | ∅ | C | — | — | Bank data monetization |
 |  47 | COINHOUSE | -12 | ∅ | C | — | — | Investissement crypto |
-|  48 | LEOCARE | 20 | ✗ | A | — | — | Néo-assureur auto / moto / MRH |
+|  48 | LEOCARE | 20 | ✓ | A | Leocare_-_Leocare.md | 2026-04-21 | Néo-assureur mobile-first auto/moto/MRH/smartphone — fiche créée |
 |  49 | DEFACTO | -31 | ∅ | C | — | — | Lending B2B |
 |  50 | FINTECTURE | 24 | ∅ | C | — | — | Open banking paiement |
 |  51 | KEEWE | New | ∅ | C | — | 2026-04-21 | Paiements internationaux multi-devises / greentech |
@@ -102,7 +105,7 @@ Après scout web des 21 sociétés Cat. B (2026-04-21) : 4 reclassées en A, 17 
 |  64 | PAYTWEAK | 0 | ∅ | C | — | — | Paiement B2B |
 |  65 | SMILE&PAY | -32 | ∅ | C | — | — | TPE paiement |
 |  66 | LEMONWAY | -16 | ∅ | C | — | — | Payment institution |
-|  67 | SEYNA | 1 | ✗ | A | — | — | Néo-assureur B2B affinitaire |
+|  67 | SEYNA | 1 | ✓ | A | Seyna_-_Seyna.md | 2026-04-21 | Assureur full-stack B2B2C, plateforme courtiers — fiche créée |
 |  68 | FINFROG | -20 | ∅ | C | — | — | Microcrédit |
 |  69 | NEFTYS | -3 | ∅ | C | — | 2026-04-21 | Préfinancement créances fiscales (CIR/CPF) PME |
 |  70 | SIKO MOBILITY | 34 | ∅ | C | — | 2026-04-21 | Financement mobilité électrique en abonnement (assurance en accessoire) |
@@ -147,12 +150,11 @@ Après scout web des 21 sociétés Cat. B (2026-04-21) : 4 reclassées en A, 17 
 3. Reclassement : **4 en A (FASST, SIMPLIS, PROMIS, ONLYNNOV) + 17 en C** ✓
 4. Mise à jour du tableau et de la Synthèse ✓
 
-### Lot 1 — Fiches-pilotes (en attente de validation utilisateur)
-Création des 4 fiches-pilotes pour validation qualité :
-- LEOCARE (rang 48) — néo-assureur auto
-- SEYNA (rang 67) — néo-assureur B2B affinitaire
-- DATTAK (rang 41) — cyber-assurance
-- GARANTME (rang 38) — garantie locative
+### Lot 1 — Fiches-pilotes ✓ TERMINÉ (2026-04-21)
+- ✓ LEOCARE (rang 48) — `Leocare_-_Leocare.md`
+- ✓ SEYNA (rang 67) — `Seyna_-_Seyna.md`
+- ✓ DATTAK (rang 41) — `Dattak_-_Dattak.md`
+- ✓ GARANTME (rang 38) — `GarantMe_-_GarantMe.md`
 
 ### Lot 2+ — 10 fiches Cat. A restantes (par groupes de ~5)
 - **Groupe 1** : CARTAN TRADE (21), LYA PROTECT (61), ASSURUP (77), HELLOSAFE (80), STUDYASSUR (93)
@@ -175,6 +177,11 @@ Peuvent être requalifiés A si le périmètre est élargi aux briques technolog
 | 2026-04-21 | — | INIT | Création du fichier de suivi `tracking_fiches_fintech100_2026.md` avec classification A/B/C des 88 sociétés manquantes |
 | 2026-04-21 | 21 sociétés Cat. B | SCOUT | Recherche web via agent général-purpose pour lever l'ambiguïté. 4 reclassées A (FASST, SIMPLIS, PROMIS, ONLYNNOV), 17 reclassées C. |
 | 2026-04-21 | — | SYNTHÈSE Lot 0 | 14 fiches à créer (Cat. A), 74 hors périmètre (C), 12 existantes. Cas borderline listés pour décision ultérieure. |
+| 2026-04-21 | Leocare (48) | CREATION | Fiche `Leocare_-_Leocare.md` + entrée index + veille archivée |
+| 2026-04-21 | Seyna (67) | CREATION | Fiche `Seyna_-_Seyna.md` + entrée index + veille archivée |
+| 2026-04-21 | Dattak (41) | CREATION | Fiche `Dattak_-_Dattak.md` + entrée index + veille archivée |
+| 2026-04-21 | GarantMe (38) | CREATION | Fiche `GarantMe_-_GarantMe.md` + entrée index + veille archivée |
+| 2026-04-21 | — | SYNTHÈSE Lot 1 | 4 fiches-pilotes créées. 10 fiches Cat. A restantes. |
 
 ---
 

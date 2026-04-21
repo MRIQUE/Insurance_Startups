@@ -95,6 +95,7 @@ Format : `| Editeur | Solution | Fichier |`
 | daisyBill | daisyBill | [daisyBill_-_daisyBill.md](Fiches_Solutions/daisyBill_-_daisyBill.md) |
 | Dalma | Dalma | [Dalma_-_Dalma.md](Fiches_Solutions/Dalma_-_Dalma.md) |
 | Damco Solutions | InsureEdge | [Damco_Solutions_-_InsureEdge.md](Fiches_Solutions/Damco_Solutions_-_InsureEdge.md) |
+| Dattak | Dattak | [Dattak_-_Dattak.md](Fiches_Solutions/Dattak_-_Dattak.md) |
 | DataCare | DataCare | [DataCare_-_DataCare.md](Fiches_Solutions/DataCare_-_DataCare.md) |
 | DeepOpinion | DeepOpinion | [DeepOpinion_-_DeepOpinion.md](Fiches_Solutions/DeepOpinion_-_DeepOpinion.md) |
 | Delos | Delos | [Delos_-_Delos.md](Fiches_Solutions/Delos_-_Delos.md) |
@@ -137,6 +138,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Friday | Friday | [Friday_-_Friday.md](Fiches_Solutions/Friday_-_Friday.md) |
 | FRISS | FRISS | [FRISS_-_FRISS.md](Fiches_Solutions/FRISS_-_FRISS.md) |
 | Further AI | Further AI | [Further_AI_-_Further_AI.md](Fiches_Solutions/Further_AI_-_Further_AI.md) |
+| GarantMe | GarantMe | [GarantMe_-_GarantMe.md](Fiches_Solutions/GarantMe_-_GarantMe.md) |
 | Gedeon | Gedeon | [Gedeon_-_Gedeon.md](Fiches_Solutions/Gedeon_-_Gedeon.md) |
 | Genasys | Genasys | [Genasys_-_Genasys.md](Fiches_Solutions/Genasys_-_Genasys.md) |
 | GEOX AI | GeoX | [GEOX_AI_-_GeoX.md](Fiches_Solutions/GEOX_AI_-_GeoX.md) |
@@ -207,6 +209,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Lazarus AI | RikAI | [Lazarus_AI_-_RikAI.md](Fiches_Solutions/Lazarus_AI_-_RikAI.md) |
 | Ledgebrook | Ledgebrook | [Ledgebrook_-_Ledgebrook.md](Fiches_Solutions/Ledgebrook_-_Ledgebrook.md) |
 | Lemonade | Lemonade Insurance | [Lemonade_-_Lemonade_Insurance.md](Fiches_Solutions/Lemonade_-_Lemonade_Insurance.md) |
+| Leocare | Leocare | [Leocare_-_Leocare.md](Fiches_Solutions/Leocare_-_Leocare.md) |
 | LexisNexis | Claims Compass | [LexisNexis_-_Claims_Compass.md](Fiches_Solutions/LexisNexis_-_Claims_Compass.md) |
 | LexisNexis | Claims Datafill | [LexisNexis_-_Claims_Datafill.md](Fiches_Solutions/LexisNexis_-_Claims_Datafill.md) |
 | LexisNexis | LexisNexis Carrier Discovery | [LexisNexis_-_LexisNexis_Carrier_Discovery.md](Fiches_Solutions/LexisNexis_-_LexisNexis_Carrier_Discovery.md) |
@@ -332,6 +335,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Seenity | Seenity | [Seenity_-_Seenity.md](Fiches_Solutions/Seenity_-_Seenity.md) |
 | Sensedia | Sensedia | [Sensedia_-_Sensedia.md](Fiches_Solutions/Sensedia_-_Sensedia.md) |
 | SEOPA | SEOPA | [SEOPA_-_SEOPA.md](Fiches_Solutions/SEOPA_-_SEOPA.md) |
+| Seyna | Seyna | [Seyna_-_Seyna.md](Fiches_Solutions/Seyna_-_Seyna.md) |
 | Shift Technology | Shift PC Claims Intake Decisions | [Shift_Technology_-_Shift_PC_Claims_Intake_Decisions.md](Fiches_Solutions/Shift_Technology_-_Shift_PC_Claims_Intake_Decisions.md) |
 | Shift Technology | Shift Technology | [Shift_Technology_-_Shift_Technology.md](Fiches_Solutions/Shift_Technology_-_Shift_Technology.md) |
 | SideCare | SideCare | [SideCare_-_SideCare.md](Fiches_Solutions/SideCare_-_SideCare.md) |

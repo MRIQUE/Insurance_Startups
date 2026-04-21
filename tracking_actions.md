@@ -5,6 +5,18 @@ Format : `YYYY-MM-DD HH:mm | ACTION | FICHIER_SOURCE | FICHIER_CIBLE`
 
 | Date       | Action         | Source (Veille)                                      | Cible (Fiche)                                                                                                    |
 | ---------- | -------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2026-04-21 | SCOUT          | Recherche web Leocare                                 | session_veille/2026-04-21_1030_Leocare.md                                                                        |
+| 2026-04-21 | CREATION       | 2026-04-21_1030_Leocare.md                            | Leocare_-_Leocare.md                                                                                             |
+| 2026-04-21 | ARCHIVAGE      | 2026-04-21_1030_Leocare.md                            | session_veille/archive/                                                                                          |
+| 2026-04-21 | SCOUT          | Recherche web Seyna                                   | session_veille/2026-04-21_1035_Seyna.md                                                                          |
+| 2026-04-21 | CREATION       | 2026-04-21_1035_Seyna.md                              | Seyna_-_Seyna.md                                                                                                 |
+| 2026-04-21 | ARCHIVAGE      | 2026-04-21_1035_Seyna.md                              | session_veille/archive/                                                                                          |
+| 2026-04-21 | SCOUT          | Recherche web Dattak                                  | session_veille/2026-04-21_1040_Dattak.md                                                                         |
+| 2026-04-21 | CREATION       | 2026-04-21_1040_Dattak.md                             | Dattak_-_Dattak.md                                                                                               |
+| 2026-04-21 | ARCHIVAGE      | 2026-04-21_1040_Dattak.md                             | session_veille/archive/                                                                                          |
+| 2026-04-21 | SCOUT          | Recherche web GarantMe                                | session_veille/2026-04-21_1045_GarantMe.md                                                                       |
+| 2026-04-21 | CREATION       | 2026-04-21_1045_GarantMe.md                           | GarantMe_-_GarantMe.md                                                                                           |
+| 2026-04-21 | ARCHIVAGE      | 2026-04-21_1045_GarantMe.md                           | session_veille/archive/                                                                                          |
 | 2026-03-25 | SCOUT          | Recherche web Pebbles Financial Solutions             | session_veille/2026-03-25_1200_Pebbles_Financial_Solutions.md                                                    |
 | 2026-03-25 | CREATION       | 2026-03-25_1200_Pebbles_Financial_Solutions.md        | Pebbles_Financial_Solutions_-_Granite.md                                                                         |
 | 2026-03-25 | CREATION       | 2026-03-25_1500_Unitary_AI.md                        | Unitary_-_Virtual_Agents.md                                                                                      |
