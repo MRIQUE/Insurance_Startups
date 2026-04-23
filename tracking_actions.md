@@ -275,3 +275,7 @@ Format : `YYYY-MM-DD HH:mm | ACTION | FICHIER_SOURCE | FICHIER_CIBLE`
 | 2026-03-25 | CREATION       | Catégorie Niche / Spécialistes divers (13)           | Smarty_-_Smarty.md                                                                                                |
 | 2026-03-25 | NON IDENTIFIÉ  | Catégorie Niche / Spécialistes divers (13)           | Alarm, Amplifi, Apuk, Norton — aucune insurtech trouvée sous ces noms                                            |
 | 2026-03-25 | UPDATE         | index_solutions.md                                   | Ajout de 18 nouvelles fiches (174 → 192) + 4 sociétés en attente d'identification                                |
+| 2026-04-23 | SCOUT          | Recherche web Inspektlabs                            | session_veille/2026-04-23_1600_Inspektlabs.md                                                                    |
+| 2026-04-23 | CREATION       | 2026-04-23_1600_Inspektlabs.md                       | Inspektlabs_-_Inspektlabs.md                                                                                     |
+| 2026-04-23 | ARCHIVAGE      | 2026-04-23_1600_Inspektlabs.md                       | session_veille/archive/                                                                                          |
+| 2026-04-23 | UPDATE         | index_solutions.md                                   | Ajout de la fiche Inspektlabs (insertion alphabetique entre INSILLION et INSTANDA)                               |

@@ -178,6 +178,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Indigo | Indigo | [Indigo_-_Indigo.md](Fiches_Solutions/Indigo_-_Indigo.md) |
 | InQuery | InQuery | [InQuery_-_InQuery.md](Fiches_Solutions/InQuery_-_InQuery.md) |
 | INSILLION | INSILLION | [INSILLION_-_INSILLION.md](Fiches_Solutions/INSILLION_-_INSILLION.md) |
+| Inspektlabs | Inspektlabs | [Inspektlabs_-_Inspektlabs.md](Fiches_Solutions/Inspektlabs_-_Inspektlabs.md) |
 | INSTANDA | INSTANDA | [INSTANDA_-_INSTANDA.md](Fiches_Solutions/INSTANDA_-_INSTANDA.md) |
 | Insurance Technology Solutions | CaseworksPro | [Insurance_Technology_Solutions_-_CaseworksPro.md](Fiches_Solutions/Insurance_Technology_Solutions_-_CaseworksPro.md) |
 | InsureMO | InsureMO | [InsureMO_-_InsureMO.md](Fiches_Solutions/InsureMO_-_InsureMO.md) |
