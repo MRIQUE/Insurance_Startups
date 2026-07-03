@@ -12,27 +12,17 @@
 
 ### CEO & Fondateur
 **Alain Tabatabai Atighechi**
-- **Origine** : Entrepreneur français d'origine iranienne
-- **Date de naissance** : 27 janvier 1968 (Téhéran, Iran)
-- **Nationalité** : Française
-- **Résidence** : La Celle-Saint-Cloud (Région parisienne)
 - **Formation** : Diplômé de l'École spéciale des Travaux publics, du Bâtiment et de l'Industrie (ESTP)
 - **Expérience** : Plus de 35 ans dans le BTP, l'ingénierie de réparation des bâtiments et l'expertise sinistres
 - **Spécialités** : Ingénierie du bâtiment, expertise sinistres, innovation technologique dans l'assurance
 
 ### Parcours professionnel d'Alain Tabatabai
-1. **1988–2000s** : Débute en tant que responsable technique dans une société de promotion immobilière (maître d'ouvrage semi-public)
-2. **Expertise sinistres** : Développe une solide expertise dans l'ingénierie de réparation des bâtiments
-3. **LCS Expertise (Leading Claim Solutions Expertise)** : Création et développement d'un cabinet spécialisé dans l'expertise sinistres
-4. **Groupe Tabatabai / Talensis** : Dirigeant avec activités dans l'immobilier, l'ingénierie et les services aux assureurs
-5. **Structures antérieures** :
-   - Determinant
-   - MySinistre (visio-expertise et expertise digitale)
-   - Nombreuses SCI et holdings (FORTANCE INVEST, etc.)
+1. Débute sa carrière en tant que responsable technique dans une société de promotion immobilière
+2. Développe une expertise reconnue dans l'ingénierie de réparation des bâtiments
+3. Crée et développe **LCS Expertise (Leading Claim Solutions Expertise)**, cabinet spécialisé dans l'expertise sinistres
+4. Dirige le **Groupe Tabatabai / Talensis** avec activités dans l'immobilier, l'ingénierie et les services aux assureurs
+5. Fonde des structures antérieures dans l'expertise digitale (Determinant, MySinistre)
 6. **AI6 Technologies (2025–présent)** : Fondateur et CEO
-
-### Famille
-- Fils : Armand Tabatabai, diplômé ingénieur Civil Engineering de l'ESTP
 
 ### Co-Fondateur
 **Sébastien Drouyer** (partenaire dans la création d'AI6 Technologies en 2025)
