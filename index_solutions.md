@@ -22,6 +22,7 @@ Format : `| Editeur | Solution | Fichier |`
 | Aegis | Aegis | [Aegis_-_Aegis.md](Fiches_Solutions/Aegis_-_Aegis.md) |
 | Aegis | AI Agents Denied Health Insurance Claims | [Aegis_-_AI_Agents_Denied_Health_Insurance_Claims.md](Fiches_Solutions/Aegis_-_AI_Agents_Denied_Health_Insurance_Claims.md) |
 | AI Insurance | AI Insurance | [AI_Insurance_-_AI_Insurance.md](Fiches_Solutions/AI_Insurance_-_AI_Insurance.md) |
+| AI6 Technologies | AI6 Technologies | [AI6_Technologies_-_AI6_Technologies.md](Fiches_Solutions/AI6_Technologies_-_AI6_Technologies.md) |
 | Akur8 | Akur8 | [Akur8_-_Akur8.md](Fiches_Solutions/Akur8_-_Akur8.md) |
 | Alan | Alan | [Alan_-_Alan.md](Fiches_Solutions/Alan_-_Alan.md) |
 | Allianz Trade | Allianz Trade Claims AI | [Allianz_Trade_-_Allianz_Trade_Claims_AI.md](Fiches_Solutions/Allianz_Trade_-_Allianz_Trade_Claims_AI.md) |
